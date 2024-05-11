@@ -1,0 +1,13 @@
+name = "HexCircus"
+filename = "HexCircus 1.1.0 [FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awUeK8jg/versions/SezzYbCf/HexCircus%201.1.0%20%5BFABRIC%5D.jar"
+hash-format = "sha1"
+hash = "0f40c94061a6eb09ff07eb5b7d22ab4459cbaba4"
+
+[update]
+[update.modrinth]
+mod-id = "awUeK8jg"
+version = "SezzYbCf"

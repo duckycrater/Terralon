@@ -1,0 +1,13 @@
+name = "Hexlink"
+filename = "hexlink-2.2.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1xOBKCjv/versions/vTCY64pn/hexlink-2.2.11.jar"
+hash-format = "sha1"
+hash = "cb18338568c5de94fad0bf1b63036a2d011ddaf7"
+
+[update]
+[update.modrinth]
+mod-id = "1xOBKCjv"
+version = "vTCY64pn"

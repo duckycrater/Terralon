@@ -122,6 +122,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
@@ -164,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "c48c68e4e8d8bcf325bf7339b68d6f9a48046ff0b50203489bcf9430ea320e8e"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]
@@ -262,6 +272,11 @@ hash = "0724f876b5c2bb34a099fc5a68469455edc3acf79b616752afc2a69ed0feeda9"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "16a29c493ce95cbcfdfa5e29d9962d9a56cf21507e20156b1d452f1a77cfc271"
 metafile = true
@@ -284,6 +299,66 @@ metafile = true
 [[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+metafile = true
+
+[[files]]
+file = "mods/hex-circus.pw.toml"
+hash = "d56bc18c66cdd1b24e1f1b1d28dca2e464a30b33c3451d6a52104c4253da45a2"
+metafile = true
+
+[[files]]
+file = "mods/hex-research.pw.toml"
+hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
+metafile = true
+
+[[files]]
+file = "mods/hexdim.pw.toml"
+hash = "1808d86df2b851acdc48916a8558c5dbe6981365eaa05f6498eca8bb233fe967"
+metafile = true
+
+[[files]]
+file = "mods/hexgloop.pw.toml"
+hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "c6e6e17840fcf13a5422cc569304e744deef8b56dcc48707f3577fabfd3c27f9"
+metafile = true
+
+[[files]]
+file = "mods/hexkeys.pw.toml"
+hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
+metafile = true
+
+[[files]]
+file = "mods/hexkinetics.pw.toml"
+hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
+metafile = true
+
+[[files]]
+file = "mods/hexlink.pw.toml"
+hash = "41aa0306665000c5ebb6524d044e93b73879de5b0a32922e684fc19b36a67812"
+metafile = true
+
+[[files]]
+file = "mods/hexpigmentplus.pw.toml"
+hash = "011148859911187498f22efa841cc6aaf4d34e1588a438f9eb6a37cfb46df953"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "3ad8cdda38ecf39f0add9e30d9a3f810e5253ec44e14a66ffd1cb303839269b4"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
 metafile = true
 
 [[files]]
@@ -437,6 +512,11 @@ hash = "af189a451e6363ae202163737b39b7ef410a541d75a2aa608268b5026d074925"
 metafile = true
 
 [[files]]
+file = "mods/mediaworks.pw.toml"
+hash = "c8f869959fbcf130a028942a6a0f8731ef6e93a4cbd1354e4b05a3d8f728e033"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
@@ -459,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f6124a6b079e5b8885634c9ba9253ceaa7da1828caf139581f474faedd4197e5"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "b91b43f5107ccaa99e43b36af1f7944dffa3ba9159f1a59f996a9e726653306c"
 metafile = true
 
 [[files]]
@@ -489,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
@@ -684,6 +774,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
+metafile = true
+
+[[files]]
+file = "mods/wnboi.pw.toml"
+hash = "44eeee05cb8e51124585414df5221036f052c3b0a91a7c18d3dfb393db91ed15"
 metafile = true
 
 [[files]]
