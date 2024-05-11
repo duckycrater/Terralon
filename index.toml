@@ -167,6 +167,11 @@ hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "38cca5dbcc34c2e0f71da842bb6401bf45ead1a8886160105ac1d6ddc4cbb97b"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "97a4d63f6689761d61ec848d18f945007b86d0d54658ae52b3824ceb0efc4a28"
 metafile = true
@@ -204,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "4cb6f75534df8ecf59b39ac386310af11cf1842add689b64938e30bbe9688d92"
 metafile = true
 
 [[files]]
@@ -362,6 +372,11 @@ hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
 metafile = true
 
 [[files]]
+file = "mods/hex-ways.pw.toml"
+hash = "9301f58a828525eb79276b407693ddc1535d6001754d04c5a2ddcf86a1cb96ff"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
 metafile = true
@@ -424,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/ijo-pona-poki.pw.toml"
 hash = "baf0c25b0eccca22191c2bec40d8733e6e23933cf26f740fc876c7c80615205e"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
 metafile = true
 
 [[files]]
@@ -824,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
