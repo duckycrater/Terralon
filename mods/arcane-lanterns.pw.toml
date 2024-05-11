@@ -1,0 +1,13 @@
+name = "Arcane Lanterns"
+filename = "ArcaneLanterns-v4.0.0-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NvlReHlC/versions/9vQ96dri/ArcaneLanterns-v4.0.0-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "384903381a39393a71bbb3bb2451ac0ce352ab4d"
+
+[update]
+[update.modrinth]
+mod-id = "NvlReHlC"
+version = "9vQ96dri"
