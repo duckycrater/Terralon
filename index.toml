@@ -161,6 +161,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "be384d2bf1abb26527d5b6d7d13209a99727e73e895845017c37801ff8319375"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "39c4f2fd156912330a997b8421ced6d35f62ecb3249c3a905fd5616f937b7db8"
 metafile = true
