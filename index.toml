@@ -72,6 +72,11 @@ hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
@@ -104,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
 
 [[files]]
@@ -157,8 +167,38 @@ hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "97a4d63f6689761d61ec848d18f945007b86d0d54658ae52b3824ceb0efc4a28"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "521ecd5a27fbfd5d0d2904a9a1dd5f4c202a49d172e0a9f5a819db55a61604d2"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "29ebaee8e9a60b4a0675342fd3b0470ee5df1c9204475ae7d6a17eac093b884c"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "af01b50ead1df7cd3479bef3d13f0d850350ea426f4f02dc610c5d2369143ea8"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ad5d758166eab77382e53747764b28c6d5bf191d4e97adf202f7e8f8730dab42"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "ee9e09eb59f4cdde1edc9442e7c2c36f995c7365f8aca2b7dcfbc58b50a8db49"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "62f2910de0e12f66c2888691baf29e891883aded41419dec468e940a9b1031b0"
 metafile = true
 
 [[files]]
@@ -209,6 +249,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "2784d741c432a2cf16ba7bd11a75244cd75b30b5113d9def8c82784a58c28405"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "d77bd4aaf304323614808767dd5265368b5becdc7916bb303dda63d774ace5c9"
 metafile = true
 
 [[files]]
@@ -384,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "4b01a5863d3f98e30770ee37dbd06f41233a534f59820189ecd50f11a9881b4a"
 metafile = true
 
 [[files]]
