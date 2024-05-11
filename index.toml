@@ -432,11 +432,6 @@ hash = "af189a451e6363ae202163737b39b7ef410a541d75a2aa608268b5026d074925"
 metafile = true
 
 [[files]]
-file = "mods/medievalweapons.pw.toml"
-hash = "3eb6f57eb9acf3b6d9494aaa53bd2cb189587cc9eab2e67a0648fca79fe44ffb"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
