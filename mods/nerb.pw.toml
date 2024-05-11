@@ -1,0 +1,13 @@
+name = "Not Enough Recipe Book [NERB]"
+filename = "nerb-1.19.2-0.3-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQh7xzFq/versions/Ta1ocIHZ/nerb-1.19.2-0.3-FABRIC.jar"
+hash-format = "sha1"
+hash = "4050f823ed8224490b84be2b938c0906c2d8f491"
+
+[update]
+[update.modrinth]
+mod-id = "bQh7xzFq"
+version = "Ta1ocIHZ"

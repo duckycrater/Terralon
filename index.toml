@@ -57,6 +57,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
 metafile = true
@@ -137,6 +142,11 @@ hash = "878a0247916f78fbc4c65934f17af43fe0eab02f2d1f027e3ba6fef9e8c192cb"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "e509cb4cf6cd376f86ec7d17a7487562db7adfe688e8097597cf7b68ab0d550a"
+metafile = true
+
+[[files]]
 file = "mods/here-be-no-dragons.pw.toml"
 hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
 metafile = true
@@ -144,6 +154,16 @@ metafile = true
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "0e64c8641fdf05d11bca0878bdbc576fdf3d0ebdaf8a81c661104d94c353c7ce"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
 metafile = true
 
 [[files]]
@@ -217,6 +237,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "8e346fa78d4d723cbc755344aa1456cd10c1b2274c040e6fa2b0d1f75119b245"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "af189a451e6363ae202163737b39b7ef410a541d75a2aa608268b5026d074925"
 metafile = true
@@ -247,6 +272,11 @@ hash = "0c55ad0b20049461cd1dc2972f9f4bf0070553ed295b9320c8391beaec5b0474"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "b13ff58ccfb7902597e9cf8b9b9674f1ff6080b8eb6cd47f53334e1f0fccb38d"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -264,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/pipeblocker.pw.toml"
 hash = "3352e7e454ffc6c2771cd2d5c34e233f08c5a90e646c63ecd64ae3e82e6396b4"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "b82aa90ee9ee219151aab705d1926dfa6b03ce4cef703cac662accfa215ce461"
 metafile = true
 
 [[files]]
