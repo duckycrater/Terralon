@@ -122,16 +122,6 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
@@ -292,8 +282,8 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/ok-boomer.pw.toml"
-hash = "35b965a26a2f1dc777899528f1adf08ef4c1200b8530440e013405ca1ee86495"
+file = "mods/ok-zoomer.pw.toml"
+hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
 metafile = true
 
 [[files]]
@@ -309,6 +299,16 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b82aa90ee9ee219151aab705d1926dfa6b03ce4cef703cac662accfa215ce461"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]

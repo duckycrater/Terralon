@@ -1,13 +1,13 @@
-name = "Basepack"
-author = "Verbina29"
+name = "Terralon"
+author = "verbina29, AIGO Team"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "52ad0fe20e078d09065c5779ddc12a9069e957e5de94791b299ab6a3f7ec6a04"
+hash = "088bf7e001f0bd42a37889be5dad7e09cf292944eeab8f300156fcce89bd748b"
 
 [versions]
-fabric = "0.15.11"
 minecraft = "1.19.2"
+quilt = "0.26.0-beta.1"
