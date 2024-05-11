@@ -82,6 +82,11 @@ hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "521ecd5a27fbfd5d0d2904a9a1dd5f4c202a49d172e0a9f5a819db55a61604d2"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
@@ -149,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/here-be-no-dragons.pw.toml"
 hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
@@ -354,4 +364,9 @@ metafile = true
 [[files]]
 file = "mods/your-reputation.pw.toml"
 hash = "df9ca214caab9b0a50ef401b01c13f02c62dbc85431ab782cf371fdce847358b"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "96d260faf47b17a4ab9d61d71b82e40126d232c2abf4862240e8c856a166b92c"
 metafile = true
