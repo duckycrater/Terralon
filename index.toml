@@ -137,6 +137,11 @@ hash = "878a0247916f78fbc4c65934f17af43fe0eab02f2d1f027e3ba6fef9e8c192cb"
 metafile = true
 
 [[files]]
+file = "mods/here-be-no-dragons.pw.toml"
+hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
