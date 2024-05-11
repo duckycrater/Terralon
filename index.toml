@@ -317,11 +317,6 @@ hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
 metafile = true
 
 [[files]]
-file = "mods/hexdim.pw.toml"
-hash = "1808d86df2b851acdc48916a8558c5dbe6981365eaa05f6498eca8bb233fe967"
-metafile = true
-
-[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
@@ -572,8 +567,8 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
+file = "mods/ok-boomer.pw.toml"
+hash = "35b965a26a2f1dc777899528f1adf08ef4c1200b8530440e013405ca1ee86495"
 metafile = true
 
 [[files]]
