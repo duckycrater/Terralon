@@ -262,6 +262,11 @@ hash = "3352e7e454ffc6c2771cd2d5c34e233f08c5a90e646c63ecd64ae3e82e6396b4"
 metafile = true
 
 [[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "c69bc6695df349f98155a021995f3f3602f7ef2cbad326929a46b7d80db32d92"
 metafile = true
