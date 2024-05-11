@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/inventoryhud.json"
+hash = "b04e92075079ed1c8de41086fe4aeec425a585a711ffc1ced4b24f4f74ee12bc"
+
+[[files]]
+file = "configureddefaults/config/minihud.json"
+hash = "e163e587e4772b08313d437f66350824baabe492f689e704611500caf63ef3e5"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap.txt"
+hash = "291f082374e4bc900d76b158d823ee326110c4781a5e01d5aba5a3e0ad3de669"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap_entities.json"
+hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "f24c286a21eb99939bb91be42beebb6c52aba8c6f1156a5facea23ff96774e71"
 metafile = true
@@ -43,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
@@ -238,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/sdlink.pw.toml"
 hash = "c69bc6695df349f98155a021995f3f3602f7ef2cbad326929a46b7d80db32d92"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "ae6d52c99a1e91ec4a8cc631e40b5badebf20423b8702a6b38ee83f38cea4577"
 metafile = true
 
 [[files]]
