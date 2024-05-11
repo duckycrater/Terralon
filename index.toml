@@ -122,6 +122,11 @@ hash = "108e96150f90cc2b5398be080fafcd26843bef2dcece79c9cf6abec2ed78de49"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
@@ -244,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "e509cb4cf6cd376f86ec7d17a7487562db7adfe688e8097597cf7b68ab0d550a"
+metafile = true
+
+[[files]]
+file = "mods/gorelib.pw.toml"
+hash = "0724f876b5c2bb34a099fc5a68469455edc3acf79b616752afc2a69ed0feeda9"
 metafile = true
 
 [[files]]
@@ -497,6 +507,11 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
@@ -649,11 +664,6 @@ metafile = true
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
 hash = "610b420d7ead2b12abb4e0cf57a800bffe0dae2b868b9182218272d24ef6e214"
-metafile = true
-
-[[files]]
-file = "mods/switchy-resource-packs.pw.toml"
-hash = "3644a1a2195e1c2d4354d02ef6f06bb6bdd2e7ad8e8eab82d74b661aa43819d8"
 metafile = true
 
 [[files]]
