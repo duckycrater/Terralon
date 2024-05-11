@@ -107,11 +107,6 @@ hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "112c455209d6ec77de8479f2f3008a562f1f4a9020b735d30c892678feaea881"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -133,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -207,6 +202,16 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
@@ -243,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -492,11 +497,6 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "d20934c8da4017329e715dcf58bd39ad0288c72c9197f61957df8ef2b906998e"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -552,16 +552,6 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
@@ -579,11 +569,6 @@ metafile = true
 [[files]]
 file = "mods/rp-chat.pw.toml"
 hash = "4baf3272b8b9ef30b15b09df6c7e9c7ecb0c3eba182192286033dbe2c9dbbbb7"
-metafile = true
-
-[[files]]
-file = "mods/runes.pw.toml"
-hash = "4ad123b749b353fc99f702703a5779f542c9e4849adf274b796f476699e3d098"
 metafile = true
 
 [[files]]
@@ -614,11 +599,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
-metafile = true
-
-[[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "277a7cc1b38733a5052257f0f336e821f40683fc31f774f5e70137f76605290f"
 metafile = true
 
 [[files]]
@@ -704,11 +684,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "4876d2e577ada82b884bde50124bfc5608fcff6b050bfa6713ee359391de1667"
 metafile = true
 
 [[files]]

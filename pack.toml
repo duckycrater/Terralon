@@ -1,13 +1,13 @@
 name = "Terralon"
-author = "verbina29, AIGO Team"
+author = "verbina29"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5ac0a5cf9fdf54fc3c95fe4a5149e2148d58c96b5b72b448f685baa46a1358c9"
+hash = "5c0b8c816cb0924c5e48f49f657f5d4244a711d036c6330c40ebc5208964b4d1"
 
 [versions]
+fabric = "0.15.11"
 minecraft = "1.19.2"
-quilt = "0.26.0-beta.1"
