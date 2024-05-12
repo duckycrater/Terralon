@@ -3,15 +3,16 @@ console.info('Hello, World! (Loading server scripts)')
 ServerEvents.recipes(e=>{
     e.remove({output: 'tempad:tempad'})
     e.shaped('tempad:tempad', [
-        ' P ',
-        'CHA',
-        ' N '
+        'SPS',
+        'MHU',
+        'SNS'
     ], {
-        C: 'ae2:charged_certus_quartz_crystal',
-        A: 'modern_industrialization:advanced_upgrade',
-        P: 'modern_industrialization:processing_unit',
-        H: 'modern_industrialization:highly_advanced_machine_hull',
-        N: 'powah:capacitor_nitro'
+        M: 'ae2:monitor',
+        U: 'modern_industrialization:basic_upgrade',
+        P: 'modern_industrialization:analog_circuit',
+        H: 'modern_industrialization:basic_machine_hull',
+        N: 'powah:capacitor_nitro',
+        S: '#c:steel_plates'
     })
 })
 console.info('Hello, World! (Loaded server scripts)')
