@@ -127,6 +127,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
@@ -144,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
+metafile = true
+
+[[files]]
+file = "mods/conjuring.pw.toml"
+hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
 metafile = true
 
 [[files]]
@@ -549,6 +559,46 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "f743d5c5f07235928f7f125b3d98d7b9bd6473b2a79f75f8af6d0d1c52d6898d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "6b09d632b129051aedb9d020807a4ebc6767028d70ca6dcdbf9b6ae2d229e4aa"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "1506e1c8c0c3f7a37255197dd5589723f8976ffbe70d1425a4c8dd26e70d490c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "e348332c0a6ff6f0779f4863d741aa84b9229cde4a2a0d1775318c105522a303"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "70e5d0a63e796b205af9e25a599c981189c56e64c3d00bab058245defc592bb2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "4a62e3ee6e3e72c597aa59e96c9fd1a92ab082335f4923392afad5b609e0e88a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "12127c72d66ae228c1478e68c816a9ffc4be74dcb97b70ec97f6b50fa20416d8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "8720b599a0eece31c386fc80604865ae85fdfd996f1c5eba51a2cc00c3657c98"
 metafile = true
 
 [[files]]
