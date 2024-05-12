@@ -103,11 +103,6 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
-file = "mods/aspects.pw.toml"
-hash = "9776bb47c8664b973e3f396f9db7870ddc558f268b965bd06bd4273ddc277ed2"
-metafile = true
-
-[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
 metafile = true
