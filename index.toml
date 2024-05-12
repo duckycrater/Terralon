@@ -17,12 +17,28 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.11-1.19.2.zip"
 hash = "bbbefd9274aa1c23730277984e17c3543e680184fa85ccc005f203d1764da2d9"
 
 [[files]]
+file = "config/tempad.json"
+hash = "93486d541408248a3b91f9f578bb947bb0e99885bb738ef4c24c517353429cf0"
+
+[[files]]
+file = "configureddefaults/config/hexcasting/client.json5"
+hash = "b4d542ee152e23f01910825c29685baaf261d430156a332b6dbfbcf7d68c5f25"
+
+[[files]]
 file = "configureddefaults/config/inventoryhud.json"
 hash = "b04e92075079ed1c8de41086fe4aeec425a585a711ffc1ced4b24f4f74ee12bc"
 
 [[files]]
+file = "configureddefaults/config/lmft.json"
+hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
+
+[[files]]
 file = "configureddefaults/config/minihud.json"
 hash = "e163e587e4772b08313d437f66350824baabe492f689e704611500caf63ef3e5"
+
+[[files]]
+file = "configureddefaults/config/mousewheelie.hjson"
+hash = "9bd760bffab290c5ac1856ad6a40fd911944a39e70664ccbcc685f96bbc09f7d"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"

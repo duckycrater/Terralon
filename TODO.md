@@ -5,4 +5,4 @@
  - Test all the AIGO Origins, RustRework modified Origins, and Bliss.
  - Create the modified version of Spectrum which gates its geodes behind Revelationary.
  - Remove Haema's Vampires from the Origins origin layer.
- - Configure Tempad.
+ - ~~Configure Tempad.~~
