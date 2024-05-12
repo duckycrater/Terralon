@@ -5,8 +5,8 @@ file = "config/modern_industrialization.toml"
 hash = "31a514517ace7bdedd2a5371df1cc49bb2cb19aa1fd2aa5062c3b93cd937b4cc"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.4.33-1.19.2.zip"
-hash = "702d6dd4c0c700e147ae03f8a07db80f55a2e2f7b049ac763a28f216c5a70092"
+file = "config/paxi/datapacks/AIGO Origins 1.4.34-1.19.2.zip"
+hash = "00f04821b1556c6fcd4ac2254b19686b293e05814997d9c192c25e6f4958518f"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
@@ -437,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/haema.pw.toml"
 hash = "a6d33ea9e4e397017d8ac6044860975cbde7a68025d5021e07589ba421d3cac7"
-metafile = true
-
-[[files]]
-file = "mods/halfdoors.pw.toml"
-hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
 metafile = true
 
 [[files]]
