@@ -677,6 +677,11 @@ hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
+file = "mods/origins.pw.toml"
+hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
@@ -859,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-statures.pw.toml"
+hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
 metafile = true
 
 [[files]]
