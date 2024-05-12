@@ -629,11 +629,6 @@ hash = "659a671daf4e1f52228ad37628c2cf8b0825e878110dd91c5ca354f5c72c7731"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-beachparty.pw.toml"
-hash = "8f10203eac1d5b725644fb57ab06c67c85da7f4f5b7a4758b9ffe8b4e85efdb5"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "ca1b333a6d3585cada2a2e8a23dd4c35ba79dbc8c33e0c014aa6745a12686d7f"
 metafile = true
