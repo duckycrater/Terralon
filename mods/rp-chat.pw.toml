@@ -1,6 +1,6 @@
 name = "RPChat"
 filename = "rpchat-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6mTNoVvi/versions/3bUnVbNn/rpchat-1.0.0.jar"

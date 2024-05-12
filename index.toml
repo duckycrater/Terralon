@@ -18,7 +18,7 @@ hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "f24c286a21eb99939bb91be42beebb6c52aba8c6f1156a5facea23ff96774e71"
+hash = "55fc9641a2fd7c34d65f631c8498ce8b58644b8e95c68dbcec01f13938ec26b2"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+hash = "7685618d499e7cf9e0296dab7b06dd8520019c1d3c147ffab5d3da9ea7791549"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-hash = "8d840893a7c2fa9ce6610c95a0dc0d4d2c5f226a4186fe1b51f93ed609ab3f9f"
+hash = "c7b9b6ce2c017ccd761a70a2dcfe78f0be4a8f2e7b6e79d93c7789a347b80bef"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
-hash = "e509cb4cf6cd376f86ec7d17a7487562db7adfe688e8097597cf7b68ab0d550a"
+hash = "34281666dfdd6e606095d4106fd33b66eb030d0b2864c255ec71b788064f2b3e"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "be384d2bf1abb26527d5b6d7d13209a99727e73e895845017c37801ff8319375"
+hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "8e346fa78d4d723cbc755344aa1456cd10c1b2274c040e6fa2b0d1f75119b245"
+hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/rp-chat.pw.toml"
-hash = "4baf3272b8b9ef30b15b09df6c7e9c7ecb0c3eba182192286033dbe2c9dbbbb7"
+hash = "0ca4ccbd645edb36ee7d5748b6ebb765203fd54fe2d9ee7a8bc07f71c3fc68a0"
 metafile = true
 
 [[files]]
@@ -753,12 +753,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "a5a309b6a4086e05148b6627ebf610993d887d95400a591fdcb2b8d5651d9dde"
+hash = "d41931b825536bd673d15537f7bbacd0e5d518b9b5e9fc4ea3631326b636657c"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "8ce6dae0860f63a4ef43525815e9d992efe5e1e7735d0e2202894df44b649bdd"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
 
 [[files]]
@@ -768,32 +768,32 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "a769724c838ed7e102bae86a2d8915e780cfd266d1a4eaff580423f38561fd23"
+hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "610b420d7ead2b12abb4e0cf57a800bffe0dae2b868b9182218272d24ef6e214"
+hash = "894819d57d4b361d6dc908a69d3d8e847a41dc61aed2019bb04eb349a8e538ac"
 metafile = true
 
 [[files]]
 file = "mods/switchy-status.pw.toml"
-hash = "7871c277616beb6b6da6a533831e8212901a4c02d2746f8f870fed7cb53a9b20"
+hash = "970b288e1d349e5535e96754075c4d765da3f24a0c4e0939ee126af3ac0fcede"
 metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "5c158c67e45abdab8a91e5e433958acdb1c0bc20f9efc690ceda8131f2e29725"
+hash = "cc6b6468ffbc394119cbaa17779d25bde3d10e74215d3eca43d4980df8174022"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "bce6086905b3f70d7ffed1d066e2fc090d96d43e16082fbe7955b67a58574814"
+hash = "fa1ae699c5efad8b928427b3014d802e37ab94395e89370cca7677409544b43a"
 metafile = true
 
 [[files]]
 file = "mods/switchykit.pw.toml"
-hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
+hash = "be6df0675d9aa6ba25b569bd6986a0457ce08631b157e3ca718b2cbf89cd2da2"
 metafile = true
 
 [[files]]
