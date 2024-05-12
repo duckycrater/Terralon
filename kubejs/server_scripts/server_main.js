@@ -1,5 +1,4 @@
 
-console.info('Hello, World! (Loading server scripts)')
 ServerEvents.recipes(e=>{
     e.remove({output: 'tempad:tempad'})
     e.shaped('tempad:tempad', [
@@ -15,4 +14,3 @@ ServerEvents.recipes(e=>{
         S: '#c:steel_plates'
     })
 })
-console.info('Hello, World! (Loaded server scripts)')
