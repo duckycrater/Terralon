@@ -588,6 +588,11 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "194d13ceaa86cb40f169f806db13b5278ee7e41ff14f0c6b0fe5a1ac0e608690"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -870,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ab5ca2d07015ef0eb01e652fd09cf0d9183ab5732f7ccaa95bdc77f1519af8dc"
 metafile = true
 
 [[files]]
