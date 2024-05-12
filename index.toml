@@ -179,11 +179,6 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
-file = "mods/carcass.pw.toml"
-hash = "108e96150f90cc2b5398be080fafcd26843bef2dcece79c9cf6abec2ed78de49"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -426,11 +421,6 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "34281666dfdd6e606095d4106fd33b66eb030d0b2864c255ec71b788064f2b3e"
-metafile = true
-
-[[files]]
-file = "mods/gorelib.pw.toml"
-hash = "0724f876b5c2bb34a099fc5a68469455edc3acf79b616752afc2a69ed0feeda9"
 metafile = true
 
 [[files]]
@@ -874,11 +864,6 @@ hash = "b82aa90ee9ee219151aab705d1926dfa6b03ce4cef703cac662accfa215ce461"
 metafile = true
 
 [[files]]
-file = "mods/porting_lib.pw.toml"
-hash = "58af519d6584f535cf79a60a8edf3aa5c8cf34d50086d0b814164da437078c5c"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "f8ff6d00aa5d5443590feeebadc80c410832a09ee8f38c5f415acbc50100b4e0"
 metafile = true
@@ -1051,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "47d45a19d3321034ac9e206dd85771c8066cfb910db68387e3937bf1ab04ae6d"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]
