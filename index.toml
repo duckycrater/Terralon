@@ -303,6 +303,11 @@ hash = "7685618d499e7cf9e0296dab7b06dd8520019c1d3c147ffab5d3da9ea7791549"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome-fabric.pw.toml"
+hash = "c0591471876039d5900952361442bfd17d603866cce8542c5e82dc609a1e9eb7"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "82b4407537197c227ffbacd6de6a6f1181f69389f1635be1952b9b8392174dac"
 metafile = true
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
 metafile = true
 
 [[files]]
