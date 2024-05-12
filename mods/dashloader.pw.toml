@@ -11,3 +11,8 @@ hash = "6e7a6748dcffaaa4e118dd61e43390de960336f9"
 [update.modrinth]
 mod-id = "ZfQ3kTvR"
 version = "DsPMHgmj"
+
+[option]
+optional = true
+description = "DashLoader vastly speeds up game loading time by caching things, but it can cause problems."
+default = false

@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
+hash = "b82efa6d9cfa70fa80ba556bb1fc022b22e9b03a1873642afc731b0405cab021"
 metafile = true
 
 [[files]]
