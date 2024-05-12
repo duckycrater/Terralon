@@ -32,16 +32,6 @@ hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
 metafile = true
 
 [[files]]
-file = "mods/amethyst-core.pw.toml"
-hash = "76fe716546a596fd603184374bf6e80476ca25f857c80b99b5a08dfc82ea64e5"
-metafile = true
-
-[[files]]
-file = "mods/amethyst-imbuement.pw.toml"
-hash = "7d296d9ad302d39c21a43555a879d8eea978dbf25c41fb18b184be8cb6ecf941"
-metafile = true
-
-[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "6167d9db9cba836be87f0c909576ae981f5efee25e3eca2effd03eb6d088cffe"
 metafile = true
@@ -309,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "497023ee90ed5483260663286cf125edc2a3baa6918d71603733236a1bca749d"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-core.pw.toml"
-hash = "14fe1ca5773d7e3825557ed8104f19a053e66e8b2426f21cd5f1f745163238d4"
 metafile = true
 
 [[files]]
