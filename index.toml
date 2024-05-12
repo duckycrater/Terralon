@@ -5,8 +5,8 @@ file = "config/modern_industrialization.toml"
 hash = "31a514517ace7bdedd2a5371df1cc49bb2cb19aa1fd2aa5062c3b93cd937b4cc"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.4.36-1.19.2.zip"
-hash = "76bd48cd5087c50a0ab0af996e10855e2327eb5185ffe338cd139c02ce599bb6"
+file = "config/paxi/datapacks/AIGO Origins 1.4.37-1.19.2.zip"
+hash = "1050b2e62ade99c3045adf34e2ce78425583009ac4e67ba259f31f8ac6a74b2d"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
@@ -63,6 +63,10 @@ hash = "291f082374e4bc900d76b158d823ee326110c4781a5e01d5aba5a3e0ad3de669"
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
+
+[[files]]
+file = "kubejs/server_scripts/server_main.js"
+hash = "5300626bf7d5d35967d91082bb9f48bb6b8a1a59f0bfe4343abf6dd987046e42"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
