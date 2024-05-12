@@ -5,8 +5,8 @@ file = "config/modern_industrialization.toml"
 hash = "31a514517ace7bdedd2a5371df1cc49bb2cb19aa1fd2aa5062c3b93cd937b4cc"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.4.32-1.19.2.zip"
-hash = "0cb20814616fd978f65a4a049e64a5dffbdae9ba64efe1f2a4810a39334de4c5"
+file = "config/paxi/datapacks/AIGO Origins 1.4.33-1.19.2.zip"
+hash = "702d6dd4c0c700e147ae03f8a07db80f55a2e2f7b049ac763a28f216c5a70092"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
@@ -362,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "d77bd4aaf304323614808767dd5265368b5becdc7916bb303dda63d774ace5c9"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
 metafile = true
 
 [[files]]
