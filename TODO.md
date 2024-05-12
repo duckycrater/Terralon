@@ -6,3 +6,4 @@
  - Create the modified version of Spectrum which gates its geodes behind Revelationary.
  - Remove Haema's Vampires from the Origins origin layer.
  - ~~Configure Tempad.~~
+ - Change the Tempad recipe to be more techy. Maybe disable the one that spawns in the end too.
