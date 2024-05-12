@@ -33,6 +33,11 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
+file = "mods/adapted-origins.pw.toml"
+hash = "e306f830a982c4a25ce159892664239d970abee8175e0d1f6b11d1ea92d7be13"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "55fc9641a2fd7c34d65f631c8498ce8b58644b8e95c68dbcec01f13938ec26b2"
 metafile = true
@@ -75,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+metafile = true
+
+[[files]]
+file = "mods/aspects.pw.toml"
+hash = "9776bb47c8664b973e3f396f9db7870ddc558f268b965bd06bd4273ddc277ed2"
 metafile = true
 
 [[files]]
@@ -188,6 +198,11 @@ hash = "bb8ae5c9f121ba0e2d617eaeb528aa0a0aaa3b76eaa7ea156d23883c5ba55571"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
@@ -233,6 +248,16 @@ hash = "62f2910de0e12f66c2888691baf29e891883aded41419dec468e940a9b1031b0"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
@@ -240,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "c48c68e4e8d8bcf325bf7339b68d6f9a48046ff0b50203489bcf9430ea320e8e"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "92dcd587a66356d3e321fef7e9537383aa8046a523f3275fb67457cf3fc98b3f"
 metafile = true
 
 [[files]]
@@ -275,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "69d8e9475565ef13a5bc7b2236d5c538ddb51075b87445c9966ef509a21490c3"
 metafile = true
 
 [[files]]
@@ -360,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/haema.pw.toml"
 hash = "a6d33ea9e4e397017d8ac6044860975cbde7a68025d5021e07589ba421d3cac7"
+metafile = true
+
+[[files]]
+file = "mods/halfdoors.pw.toml"
+hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
 metafile = true
 
 [[files]]
@@ -585,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "f743d5c5f07235928f7f125b3d98d7b9bd6473b2a79f75f8af6d0d1c52d6898d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "0ad3b323ec3990dcc2a04d76040ac39530d1107ff8a76a058e40acdcbe782e47"
 metafile = true
 
 [[files]]

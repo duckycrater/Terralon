@@ -1,0 +1,13 @@
+name = "Aspects | Origins Addon"
+filename = "aspects-1.0.9-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xl0THQwg/versions/yM1rLv4e/aspects-1.0.9-1.19.x.jar"
+hash-format = "sha1"
+hash = "0cd6bf4a0729904f55da963b29bde86bf8c5af26"
+
+[update]
+[update.modrinth]
+mod-id = "Xl0THQwg"
+version = "yM1rLv4e"

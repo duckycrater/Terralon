@@ -1,0 +1,13 @@
+name = "Adapted Origins - An Origins Addon"
+filename = "adaptedorigins-1.19-2.3.0-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ld5F150B/versions/n3Va4UAu/adaptedorigins-1.19-2.3.0-FABRIC.jar"
+hash-format = "sha1"
+hash = "825b0dd151df0ed79404dc52741e88dc5af2aa34"
+
+[update]
+[update.modrinth]
+mod-id = "Ld5F150B"
+version = "n3Va4UAu"
