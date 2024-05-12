@@ -9,8 +9,8 @@ file = "config/paxi/datapacks/Bliss 1.4.2-1.19.2.zip"
 hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
 [[files]]
-file = "config/paxi/datapacks/Lunacy 1.0.2.zip"
-hash = "0de3b3b7f8ed8fab1a0ac5c25efa993eed6ac8b7be0686fd4ba122b8f57c1662"
+file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
+hash = "e2170bb91f05c6b674ee14ac0e1f6f8d4cdbce211cffdd719b9a2e2430ef3445"
 
 [[files]]
 file = "config/paxi/datapacks/Rust's Origins Rework 1.2.11-1.19.2.zip"
