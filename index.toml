@@ -66,7 +66,7 @@ hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "5300626bf7d5d35967d91082bb9f48bb6b8a1a59f0bfe4343abf6dd987046e42"
+hash = "33b9956af652dad42cfd3729125bdb35ba12c240e91f3488315c83fef0b0dbbf"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
@@ -361,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "2784d741c432a2cf16ba7bd11a75244cd75b30b5113d9def8c82784a58c28405"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "430567cd5fd2b2a1b02595dd638cbc94f090b00ee48bb07efa075817ce0305b7"
 metafile = true
 
 [[files]]
@@ -781,6 +786,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
 
 [[files]]
