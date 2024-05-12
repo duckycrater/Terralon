@@ -9,6 +9,18 @@ file = "config/paxi/datapacks/AIGO Origins 1.4.32-1.19.2.zip"
 hash = "0cb20814616fd978f65a4a049e64a5dffbdae9ba64efe1f2a4810a39334de4c5"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
+hash = "481c006c5122ae968bc0973ced7bb092210af40937386b878beace592fccc2e4"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/medium_blood_sources.json"
+hash = "be1fcb57d1787a85e0266b8cbe9deeceb7eda3fdb0a66503f46ed08c733d47f9"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO_Tweaks/pack.mcmeta"
+hash = "bea7f275e4ca18b07bf0e5f21deb337d5ea6ba154a6d8a01c5b8368803c8d7b7"
+
+[[files]]
 file = "config/paxi/datapacks/Bliss 1.4.2-1.19.2.zip"
 hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
