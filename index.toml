@@ -162,6 +162,11 @@ hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "bb8ae5c9f121ba0e2d617eaeb528aa0a0aaa3b76eaa7ea156d23883c5ba55571"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
