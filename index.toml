@@ -528,6 +528,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "03b5a1c4ccb830942b640e9ca15862800530815ae35b6223bf520d15270f8166"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "4b01a5863d3f98e30770ee37dbd06f41233a534f59820189ecd50f11a9881b4a"
 metafile = true
