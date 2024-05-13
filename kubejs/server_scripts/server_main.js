@@ -1,5 +1,12 @@
 
 ServerEvents.recipes(e=>{
+    // Removed OP Armor and sword from MI.
+    e.remove({output: 'modern_industrialization:quantum_helmet'})
+    e.remove({output: 'modern_industrialization:quantum_chestplate'})
+    e.remove({output: 'modern_industrialization:quantum_leggins'})
+    e.remove({output: 'modern_industrialization:quantum_boots'})
+    e.remove({output: 'modern_industrialization:quantum_sword'})
+    
     e.remove({output: 'tempad:tempad'})
     e.shaped('tempad:tempad', [
         'SPS',
