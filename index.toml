@@ -5,12 +5,20 @@ file = "config/Spectrum.json5"
 hash = "ba30a4017868d84dc44fc3853da9d246b19ace1a51340ad1772669ae4ba44dba"
 
 [[files]]
+file = "config/bewitchment.json"
+hash = "69db1cba761312627d6eb1c101fdec3dd8fcd9f5c4b313563e4e509c6ae4fc8b"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "f8fdbe28d8ceec355b1a8558519dd288be5e30827f65dddd23b40e5f8435214f"
 
 [[files]]
 file = "config/modern_industrialization.toml"
 hash = "d36f14dcfa96b1efc2e86de657651da6e99de700bbf48edb1ff2e073e67f1a1d"
+
+[[files]]
+file = "config/mythicmetals.json5"
+hash = "a2d3a7ce714139040446c5b18178eda978c42b128d551f47733893f1483d2562"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Origins 1.5.3-1.19.2.zip"
@@ -115,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "bffc5913bb7a4bc49be0dac42cae332067822247ed0ba178f1a83ad5ec8db22a"
 metafile = true
 
 [[files]]
@@ -875,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "b13ff58ccfb7902597e9cf8b9b9674f1ff6080b8eb6cd47f53334e1f0fccb38d"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
 metafile = true
 
 [[files]]
