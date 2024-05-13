@@ -883,6 +883,11 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
+file = "mods/reaper.pw.toml"
+hash = "7942888a41667a4ab2e5c4fb0e9bd1ab56484e877c1d2ea5c98487ad40268b11"
+metafile = true
+
+[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
@@ -945,6 +950,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "11452bbe58a5ce975bdf6245638082dcb8c646834492df6cd8718a6c756b7b18"
+metafile = true
+
+[[files]]
+file = "mods/spirit.pw.toml"
+hash = "2b5eaf88e6214319a6339ac81a2aa8e03262fae3656cc01c40991575bb5129e3"
 metafile = true
 
 [[files]]
@@ -1035,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
