@@ -27,6 +27,18 @@ ServerEvents.recipes(e=>{
     })
 })
 
+ServerEvents.tags('item', e=>{
+    e.add('fayne_origins:metal_repair_resources','minecraft:iron_ingot')
+    e.add('fayne_origins:strong_metal_repair_resources','minecraft:iron_block')
+    e.add('fayne_origins:energy_sources','minecraft:coal')
+    e.add('fayne_origins:energy_sources','minecraft:charcoal')
+    e.add('fayne_origins:energy_sources','minecraft:redstone')
+    e.add('fayne_origins:energy_sources','minecraft:glowstone_dust')
+    e.add('fayne_origins:energy_sources','minecraft:blaze_powder')
+    e.add('fayne_origins:high_energy_sources','minecraft:blaze_rod')
+    e.add('fayne_origins:upgrade_items','minecraft:nether_star')
+})
+
 PlayerEvents.loggedIn(e=>{
     // Check if player doesn't have "starting_items" stage yet
     if (!e.player.stages.has('starting_items')) {
