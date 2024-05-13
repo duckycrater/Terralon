@@ -5,8 +5,8 @@ file = "config/modern_industrialization.toml"
 hash = "31a514517ace7bdedd2a5371df1cc49bb2cb19aa1fd2aa5062c3b93cd937b4cc"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.5.2-1.19.2.zip"
-hash = "6c308711ddb2510a2740884314f5704ffbc5fc345972adad1214d0671710f78c"
+file = "config/paxi/datapacks/AIGO Origins 1.5.3-1.19.2.zip"
+hash = "02b4f839e4783a33eda066a94b41954df599ee87077feaaba92f23f1dea530ec"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
