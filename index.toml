@@ -33,6 +33,10 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.11-1.19.2.zip"
 hash = "bbbefd9274aa1c23730277984e17c3543e680184fa85ccc005f203d1764da2d9"
 
 [[files]]
+file = "config/paxi/datapacks/SprectrumHider.zip"
+hash = "24e7d52b0300d82c400f9a95bfad276457f64638549f2d5ad5ed60b3d375b4ab"
+
+[[files]]
 file = "config/tempad.json"
 hash = "93486d541408248a3b91f9f578bb947bb0e99885bb738ef4c24c517353429cf0"
 
@@ -889,6 +893,11 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ab5ca2d07015ef0eb01e652fd09cf0d9183ab5732f7ccaa95bdc77f1519af8dc"
 metafile = true
@@ -926,6 +935,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "85f3a4a42b755714bf7cc3dbb0c12a4477204f167593f26ff92f7a1c5acda3cb"
 metafile = true
 
 [[files]]
