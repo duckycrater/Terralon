@@ -27,6 +27,11 @@ ServerEvents.recipes(e=>{
     })
 })
 
+ServerEvents.customCommand('origin', event => {
+    event.player.give(Item.of('origins:orb_of_origin', 1))
+    event.server.runCommandSilent('origin gui ${event.entity.uuid}')
+})
+
 ServerEvents.tags('item', e=>{
     e.add('fayne_origins:metal_repair_resources','minecraft:iron_nugget')
     e.add('fayne_origins:metal_repair_resources','minecraft:copper_ingot')
@@ -40,6 +45,7 @@ ServerEvents.tags('item', e=>{
     e.add('fayne_origins:energy_sources','minecraft:blaze_powder')
     e.add('fayne_origins:high_energy_sources','minecraft:blaze_rod')
     e.add('fayne_origins:upgrade_items','minecraft:nether_star')
+    e.add('fayne_origins:upgrade_items','modern_industrialization:advanced_upgrade')
 })
 
 PlayerEvents.loggedIn(e=>{
