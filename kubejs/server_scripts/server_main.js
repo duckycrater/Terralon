@@ -28,8 +28,11 @@ ServerEvents.recipes(e=>{
 })
 
 ServerEvents.tags('item', e=>{
-    e.add('fayne_origins:metal_repair_resources','minecraft:iron_ingot')
-    e.add('fayne_origins:strong_metal_repair_resources','minecraft:iron_block')
+    e.add('fayne_origins:metal_repair_resources','minecraft:iron_nugget')
+    e.add('fayne_origins:metal_repair_resources','minecraft:copper_ingot')
+    e.add('fayne_origins:metal_repair_resources','minecraft:gold_ingot')
+    e.add('fayne_origins:strong_metal_repair_resources','minecraft:iron_ingot')
+    e.add('fayne_origins:strong_metal_repair_resources','modern_industrialization:titanium_ingot')
     e.add('fayne_origins:energy_sources','minecraft:coal')
     e.add('fayne_origins:energy_sources','minecraft:charcoal')
     e.add('fayne_origins:energy_sources','minecraft:redstone')
