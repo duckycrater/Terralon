@@ -5,6 +5,10 @@ file = "config/Spectrum.json5"
 hash = "ba30a4017868d84dc44fc3853da9d246b19ace1a51340ad1772669ae4ba44dba"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "5669d645311c1ab4122b92d5b424cfcec873ce6adb6d31f7fee5a9dc228ab83e"
+
+[[files]]
 file = "config/bewitchment.json"
 hash = "69db1cba761312627d6eb1c101fdec3dd8fcd9f5c4b313563e4e509c6ae4fc8b"
 
@@ -107,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
-hash = "96425de2543f6e2bbe51239e7a953fde7d3a697f4a565e20dbc83d69ee47ec5a"
+hash = "754e8d75a3a3c814d34cc7072116acbd09d079f26b15601301bb0b01786632f3"
 metafile = true
 
 [[files]]
@@ -277,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "dfea535dbe6d426687410d10c9d01ff326b7d6f469dbcf13622fa0f0eb47ebfe"
+hash = "7892ca15233c87f50cce50898d1b6ab8cb06c47f8fcc1aa97bd816ddae6d9a0e"
 metafile = true
 
 [[files]]
@@ -352,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+hash = "c3907eab7e08d7db198d2e5c3c7cd806ff406bc34f03af5b0f1dc2fdfac61a27"
 metafile = true
 
 [[files]]
@@ -842,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "830baeae860271175da1ddcc0f321a263a5271b2447bebdde78c1d950f540363"
+hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
@@ -892,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
+hash = "4ab3ca7caeb9d5d533c490ca1269f2bb9dd8f5ae84827188e7a9e602c41c4111"
 metafile = true
 
 [[files]]
@@ -997,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "fb5b18d70a6396cec01daf9962a7bbf0dd946750118793e2b88d7b3614f3859d"
+hash = "472ec083d86beb00ff172c6529522f7b098299293cfcf37271b4fa11e052235e"
 metafile = true
 
 [[files]]
@@ -1227,40 +1231,40 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "8505f522e9303d3b62fc1776ac314d1ca4a790d2c400098addc82c78ef401480"
+hash = "a0c90cf55ee22034d8c84e8ff9a9170792c37a242aa2ddbd3635c497c0281f76"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "837191a22ea97cb06345a38ca872d22b33a97aa353bea8e101171e76ce29aad3"
+hash = "50c2ce35a2678f4666e700b43da4c48d2a47fbd04ac35cc735ca20a846686aed"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "cea92801d142019fab01963d329fbdde6655f7950f7982696a98907bc340549f"
+hash = "6b6e02820b865d7dac68d125f9d559fdfcdca20039394032e8a8d2a5b1b4943b"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "0920a9dc49922eecfcb31ba2e7015c8c8da021e6a1769e6a6c5035c0e64dfa1c"
+hash = "a629719b3d78e3141e176b623f73a1745354ab64c08c81c06e9ed7e6d81efac4"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "6a0a48d09a7d6b66034739ad4043f434b535751e7ed7cb6044b08757b38f310b"
+hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "c9f54cfc9c24b81b419d33104732a70c80f2cbc449346a55131d6c8098a23ebf"
+hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "01a04df128fe021c9fbce79296c6550fa3abe55d010b0dd5df51700e4d2057ac"
+hash = "7ff8a4f5dc16d36c44d08439017a97006d333ca196dd4a6507d82debe9af05f5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "ebb903bad1b5b99cf9384093708a65d0f72186432c436bb536487253770c32f7"
+hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true

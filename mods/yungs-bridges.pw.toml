@@ -1,6 +1,6 @@
 name = "YUNG's Bridges"
 filename = "YungsBridges-1.19.2-Fabric-3.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/42BwR2A5/YungsBridges-1.19.2-Fabric-3.1.0.jar"
