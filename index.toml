@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "3d188f00d45111c1812e2891c66f4a1a0aca4e66e98416d0b0febfbb18837f1c"
+hash = "c42065d71d95bfd106447d8942182c85735be752d095cf6ffb39e21b55b5b945"
 metafile = true
 
 [[files]]
