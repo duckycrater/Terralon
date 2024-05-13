@@ -734,11 +734,6 @@ hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
-hash = "aaf7c21230fead305c4836d801947a0c7a787228bbdf596438c03abb5e37f119"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "f743d5c5f07235928f7f125b3d98d7b9bd6473b2a79f75f8af6d0d1c52d6898d"
 metafile = true
