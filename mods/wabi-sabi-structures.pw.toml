@@ -1,0 +1,13 @@
+name = "Wabi-Sabi Structures"
+filename = "Wabi-Sabi-Structures-1.2.0-1.19-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr3O6THr/versions/tKcFhin5/Wabi-Sabi-Structures-1.2.0-1.19-Fabric.jar"
+hash-format = "sha1"
+hash = "dcb0164e7c3fdabd4b3448002f7c750a4207f25e"
+
+[update]
+[update.modrinth]
+mod-id = "Vr3O6THr"
+version = "tKcFhin5"

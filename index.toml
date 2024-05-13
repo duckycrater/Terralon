@@ -82,6 +82,11 @@ hash = "e306f830a982c4a25ce159892664239d970abee8175e0d1f6b11d1ea92d7be13"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "96425de2543f6e2bbe51239e7a953fde7d3a697f4a565e20dbc83d69ee47ec5a"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "55fc9641a2fd7c34d65f631c8498ce8b58644b8e95c68dbcec01f13938ec26b2"
 metafile = true
@@ -324,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "b82efa6d9cfa70fa80ba556bb1fc022b22e9b03a1873642afc731b0405cab021"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
@@ -782,6 +792,11 @@ hash = "92e056e29d0838a3b3a76fb1797fbad1d6629d8d578a338cf6768932bd3e6018"
 metafile = true
 
 [[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "830baeae860271175da1ddcc0f321a263a5271b2447bebdde78c1d950f540363"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "68d0545bf74a4eb2a96a79b6f2aec7448d8e33c062be328dfddc76909b8b40b6"
 metafile = true
@@ -912,6 +927,11 @@ hash = "5af048eafd9534c111825695ff60b39b709fb3e87d4ea6fae4f62a941728b348"
 metafile = true
 
 [[files]]
+file = "mods/promenade.pw.toml"
+hash = "347ccf45370cce05e8341ae2c2ef987ad2af7b2763335943b1788fac6599fca8"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
@@ -919,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "fb5b18d70a6396cec01daf9962a7bbf0dd946750118793e2b88d7b3614f3859d"
 metafile = true
 
 [[files]]
@@ -1072,6 +1097,11 @@ hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
 metafile = true
 
 [[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "26661112ce3347245687056f5c8289670239ce997788f596c388a6123a0af3ae"
+metafile = true
+
+[[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
 metafile = true
@@ -1094,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/vitalize.pw.toml"
 hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
+metafile = true
+
+[[files]]
+file = "mods/wabi-sabi-structures.pw.toml"
+hash = "acf9273d729483514a767a7467ac203f90d7188eca480254f5e07bb1c1f89199"
 metafile = true
 
 [[files]]
