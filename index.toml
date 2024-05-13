@@ -908,11 +908,6 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
-file = "mods/reaper.pw.toml"
-hash = "7942888a41667a4ab2e5c4fb0e9bd1ab56484e877c1d2ea5c98487ad40268b11"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
