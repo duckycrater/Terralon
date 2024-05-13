@@ -244,6 +244,11 @@ hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "112c455209d6ec77de8479f2f3008a562f1f4a9020b735d30c892678feaea881"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
