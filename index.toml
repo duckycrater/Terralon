@@ -101,6 +101,10 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
+file = "defaultconfigs/hwg.toml"
+hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
+
+[[files]]
 file = "kubejs/server_scripts/server_main.js"
 hash = "660211a86daf1925ba16f88cd6e04eca3057fb24804438fc7f0d335cf010b511"
 
@@ -177,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "766b5df114523e86e14a984106d1e178d359b8b431b74a4d50c73bd66c0f0b23"
 metafile = true
 
 [[files]]
@@ -522,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "4f4c6c498e98edf0ebfc80e3a6ec3808b435d2cecb2aeab60f9fc8052b3e37d2"
 metafile = true
 
 [[files]]
@@ -1027,6 +1041,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "ae6d52c99a1e91ec4a8cc631e40b5badebf20423b8702a6b38ee83f38cea4577"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "3d188f00d45111c1812e2891c66f4a1a0aca4e66e98416d0b0febfbb18837f1c"
 metafile = true
 
 [[files]]
