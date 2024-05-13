@@ -1089,6 +1089,11 @@ hash = "4662dcd6aade6b4e055d072e56dbc21062c2d8b6a8a490852dab9e9b9767aebe"
 metafile = true
 
 [[files]]
+file = "mods/staff-of-building.pw.toml"
+hash = "7ae398d370a1d9dd071a06306c981eda02cfc25013f7137dc49d182e91f2663a"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
