@@ -1,0 +1,13 @@
+name = "Heartstone"
+filename = "heartstone-1.19.2-1.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBY6AFje/versions/ryEcqjeS/heartstone-1.19.2-1.1.2-fabric.jar"
+hash-format = "sha1"
+hash = "e4f14fc759bed2f7ea749b8bdb2b038d63e82011"
+
+[update]
+[update.modrinth]
+mod-id = "NBY6AFje"
+version = "ryEcqjeS"
