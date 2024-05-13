@@ -774,6 +774,11 @@ hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "ea90f358badcbdee91fcbcf0728291afd55d09ce6d11b937564e2d684acc8ecd"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "f743d5c5f07235928f7f125b3d98d7b9bd6473b2a79f75f8af6d0d1c52d6898d"
 metafile = true
@@ -1026,11 +1031,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "ab5ca2d07015ef0eb01e652fd09cf0d9183ab5732f7ccaa95bdc77f1519af8dc"
-metafile = true
-
-[[files]]
-file = "mods/rp-chat.pw.toml"
-hash = "0ca4ccbd645edb36ee7d5748b6ebb765203fd54fe2d9ee7a8bc07f71c3fc68a0"
 metafile = true
 
 [[files]]
