@@ -32,7 +32,56 @@ PlayerEvents.loggedIn(e=>{
     if (!e.player.stages.has('starting_items')) {
         // Add the stage
         e.player.stages.add('starting_items')
-        // Give some items to player
-        e.player.give(Item.of('eccentrictome:tome', '{"eccentrictome:mods":{bewitchment:{0:{Count:1b,id:"bewitchment:book_of_shadows"}},botania:{0:{Count:1b,id:"botania:lexicon"}},byg:{0:{Count:1b,id:"byg:biomepedia"}},haema:{0:{Count:1b,id:"haema:book_of_blood"}},hexcasting:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"hexcasting:thehexbook"}}},modern_industrialization:{0:{Count:1b,id:"modern_industrialization:guidebook"}},powah:{0:{Count:1b,id:"powah:book"}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}}}').enchant('yigd:soulbound', 1))
+        e.server.scheduleInTicks(1 * 50, callback => {
+            //e.player.inventory.clear()
+            e.player.give(Item.of('eccentrictome:tome', '{"eccentrictome:mods":{bewitchment:{0:{Count:1b,id:"bewitchment:book_of_shadows"}},botania:{0:{Count:1b,id:"botania:lexicon"}},byg:{0:{Count:1b,id:"byg:biomepedia"}},haema:{0:{Count:1b,id:"haema:book_of_blood"}},hexcasting:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"hexcasting:thehexbook"}}},modern_industrialization:{0:{Count:1b,id:"modern_industrialization:guidebook"}},powah:{0:{Count:1b,id:"powah:book"}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}}}').enchant('yigd:soulbound', 1))
+        });
     }
 })
+
+function removeAdvancement(advancementFilePath) {
+    let arr = []
+    if (typeof (advancementFilePath) == 'string') arr = [advancementFilePath]
+    else if (typeof (advancementFilePath) == 'object') arr = advancementFilePath
+    else console.log(`Invalid type for removeAdvancement(${advancementFilePath})`)
+
+    ServerEvents.highPriorityData(event => {
+        event.addJson('yourmodpack:advancements/removed', {
+            display: { hidden: true },
+        })
+        arr.forEach(advancement => {
+            event.addJson(`${advancement}.json`, {
+                parent: 'yourmodpack:advancements/removed',
+                display: { hidden: true },
+                criteria: {
+                    impossible: {
+                        trigger: 'minecraft:impossible'
+                    }
+                },
+                requirements: [['impossible']]
+            })
+        })
+    })
+}
+// removes the haema advancements because I think they're annoying, and a few book giver achievements.
+removeAdvancement([
+    'haema:advancements/use_blood',
+    'haema:advancements/drink_blood',
+    'haema:advancements/drink_good_blood',
+    'haema:advancements/drink_player_blood',
+    'haema:advancements/fail_conversion',
+    'haema:advancements/get_blood',
+    'haema:advancements/kill_vampire_hunter',
+    'haema:advancements/root',
+    'haema:advancements/store_blood',
+    'haema:advancements/trigger_vampire_hunters',
+'haema:advancements/use_invis',
+'haema:advancements/use_dash',
+'haema:advancements/use_mist',
+'haema:advancements/use_ritual_table',
+'haema:advancements/fulfil_contract',
+'haema:advancements/create_ritual_table',
+'haema:advancements/get_contract',
+'hexcasting:advancements/grant_patchi_book',
+])
+
