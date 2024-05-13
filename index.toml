@@ -25,6 +25,10 @@ file = "config/paxi/datapacks/Bliss 1.4.2-1.19.2.zip"
 hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
 [[files]]
+file = "config/paxi/datapacks/Fayne Origins.zip"
+hash = "c7bdabbc51f1ffc16f90c0f7ccdc13aa273e5ba9cadaea37a4c56b2cfaa84bca"
+
+[[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
 hash = "e2170bb91f05c6b674ee14ac0e1f6f8d4cdbce211cffdd719b9a2e2430ef3445"
 
