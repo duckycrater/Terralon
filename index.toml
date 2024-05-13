@@ -128,8 +128,18 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
+metafile = true
+
+[[files]]
+file = "mods/backported-wolves.pw.toml"
+hash = "3304a70c83693aa8bf250a7b357f954ca7cfb9d841c1c00651722688bd7ab41f"
 metafile = true
 
 [[files]]
@@ -188,6 +198,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "ba52fa042c54f98263f28ab67d645ba5262fafecb7a5dfe38140653ab98c2f8d"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -215,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "dfea535dbe6d426687410d10c9d01ff326b7d6f469dbcf13622fa0f0eb47ebfe"
 metafile = true
 
 [[files]]
@@ -450,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
+metafile = true
+
+[[files]]
+file = "mods/heartstone.pw.toml"
+hash = "03aa525998063d2652c7fc1343e90a15a4e5f3b44ae483ca64d8c26038567ea4"
 metafile = true
 
 [[files]]
@@ -968,6 +993,11 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
+file = "mods/statement.pw.toml"
+hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "d41931b825536bd673d15537f7bbacd0e5d518b9b5e9fc4ea3631326b636657c"
 metafile = true
@@ -1025,6 +1055,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
 metafile = true
 
 [[files]]

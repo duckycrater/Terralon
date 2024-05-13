@@ -1,0 +1,13 @@
+name = "Backported Wolves"
+filename = "[Fabric]backported_wolves-1.1.0-1.19-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yasXoQpR/versions/FLNG2BVG/%5BFabric%5Dbackported_wolves-1.1.0-1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "dcf7e0bee37184236eb42e0c4909f1d0f5b634f8"
+
+[update]
+[update.modrinth]
+mod-id = "yasXoQpR"
+version = "FLNG2BVG"
