@@ -5,6 +5,10 @@ file = "config/Spectrum.json5"
 hash = "ba30a4017868d84dc44fc3853da9d246b19ace1a51340ad1772669ae4ba44dba"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "f8fdbe28d8ceec355b1a8558519dd288be5e30827f65dddd23b40e5f8435214f"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "d36f14dcfa96b1efc2e86de657651da6e99de700bbf48edb1ff2e073e67f1a1d"
 
