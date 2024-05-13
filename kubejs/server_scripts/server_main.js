@@ -33,6 +33,6 @@ PlayerEvents.loggedIn(e=>{
         // Add the stage
         e.player.stages.add('starting_items')
         // Give some items to player
-        e.player.give(Item.of('eccentrictome:tome', '{"eccentrictome:mods":{bewitchment:{0:{Count:1b,id:"bewitchment:book_of_shadows"}},botania:{0:{Count:1b,id:"botania:lexicon"}},haema:{0:{Count:1b,id:"haema:book_of_blood"}},hexcasting:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"hexcasting:thehexbook"}}},modern_industrialization:{0:{Count:1b,id:"modern_industrialization:guidebook"}},powah:{0:{Count:1b,id:"powah:book"}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}}}').enchant('yigd:soulbound', 1))
+        e.player.give(Item.of('eccentrictome:tome', '{"eccentrictome:mods":{bewitchment:{0:{Count:1b,id:"bewitchment:book_of_shadows"}},botania:{0:{Count:1b,id:"botania:lexicon"}},byg:{0:{Count:1b,id:"byg:biomepedia"}},haema:{0:{Count:1b,id:"haema:book_of_blood"}},hexcasting:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"hexcasting:thehexbook"}}},modern_industrialization:{0:{Count:1b,id:"modern_industrialization:guidebook"}},powah:{0:{Count:1b,id:"powah:book"}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}}}').enchant('yigd:soulbound', 1))
     }
 })
