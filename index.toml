@@ -920,11 +920,6 @@ hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
-file = "mods/origins-extra-keybinds-fabric.pw.toml"
-hash = "7806898bdc3d3fb6fad6d088627cefb2842ae49a882ea099989bc7793b0924a0"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
