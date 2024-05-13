@@ -289,6 +289,11 @@ hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "f5c03a776b8160635236b414653cc831802eb597d3043e908840450eb3a501c9"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "7892ca15233c87f50cce50898d1b6ab8cb06c47f8fcc1aa97bd816ddae6d9a0e"
 metafile = true
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "df495c3b1da4060171c6b1769d6a82b12355ef667bc2d92c03af941c45c4fa9d"
 metafile = true
 
 [[files]]
@@ -386,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "c48c68e4e8d8bcf325bf7339b68d6f9a48046ff0b50203489bcf9430ea320e8e"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "855381cd08b917e117744f9c8cf6ea3e1c5057df68a038449315cf8d083adb62"
 metafile = true
 
 [[files]]
@@ -471,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "03eb7d41ca9aa1607eb7ac8db269b57ad1745553f2f9650255ea5d25823d17bd"
 metafile = true
 
 [[files]]
@@ -1211,6 +1231,11 @@ metafile = true
 [[files]]
 file = "mods/wabi-sabi-structures.pw.toml"
 hash = "acf9273d729483514a767a7467ac203f90d7188eca480254f5e07bb1c1f89199"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "5aebb2d3608cefd6deeaa879b3f65eeb6f28e82f916f82c3cfab07be5dfcec1e"
 metafile = true
 
 [[files]]

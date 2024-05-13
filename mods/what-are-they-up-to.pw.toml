@@ -1,0 +1,13 @@
+name = "What Are They Up To (Watut)"
+filename = "watut-fabric-1.19.2-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtB5mHky/versions/aRS1pg7N/watut-fabric-1.19.2-1.0.14.jar"
+hash-format = "sha1"
+hash = "9ad6680ae47e0e6e0e8226760cc424ae5fc10a02"
+
+[update]
+[update.modrinth]
+mod-id = "AtB5mHky"
+version = "aRS1pg7N"
