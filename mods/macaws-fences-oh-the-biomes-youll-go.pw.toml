@@ -1,0 +1,13 @@
+name = "Macaw's Fences - Oh The Biomes You'll Go"
+filename = "mcwfencesbyg-fabric-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YwnqoRu0/versions/gyNxebFk/mcwfencesbyg-fabric-1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "8d62a281e99d88763b03f6da7186893e0f9cc658"
+
+[update]
+[update.modrinth]
+mod-id = "YwnqoRu0"
+version = "gyNxebFk"

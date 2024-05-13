@@ -194,6 +194,11 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "378704b4e71ff0698c980cb7cfe2c5ce990d8504dc0eb171ea6e477148da2202"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
@@ -264,11 +269,6 @@ hash = "51e03afa33ca0999c85ee7fdfe2fcc25d5b238abd2a8630a12cbb80f9b658b76"
 metafile = true
 
 [[files]]
-file = "mods/conjuring.pw.toml"
-hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
@@ -336,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+metafile = true
+
+[[files]]
+file = "mods/ctov-byg-compat.pw.toml"
+hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
 metafile = true
 
 [[files]]
@@ -729,6 +734,11 @@ hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "aaf7c21230fead305c4836d801947a0c7a787228bbdf596438c03abb5e37f119"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "f743d5c5f07235928f7f125b3d98d7b9bd6473b2a79f75f8af6d0d1c52d6898d"
 metafile = true
@@ -744,8 +754,18 @@ hash = "6b09d632b129051aedb9d020807a4ebc6767028d70ca6dcdbf9b6ae2d229e4aa"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
+hash = "5dc5efcb77a1ec078b8c27082439490b0e9897cae65a6bdc02e89c9b3e778e86"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "1506e1c8c0c3f7a37255197dd5589723f8976ffbe70d1425a4c8dd26e70d490c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
+hash = "e55e0c79a4d36717e610db8cc19644412e3813118d37f1397efbc46750fd56bd"
 metafile = true
 
 [[files]]
@@ -761,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "4a62e3ee6e3e72c597aa59e96c9fd1a92ab082335f4923392afad5b609e0e88a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
+hash = "4305d1e98a1799548ab85cacb2e746793c13983b0c97e692979ab673d6a7a2dd"
 metafile = true
 
 [[files]]
@@ -1116,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "593eb359699d47ab057298901be7d797a2911f88fb15d387f1f8b55baac8cd07"
 metafile = true
 
 [[files]]

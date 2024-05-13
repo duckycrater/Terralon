@@ -1,0 +1,13 @@
+name = "Macaw's Furnitures - Oh The Biomes You'll Go"
+filename = "mcwfurnituresbyg-fabric-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9puNODX/versions/9aLkOdCH/mcwfurnituresbyg-fabric-1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "fc27c4044c0c007940b9fd2db7620cf4b95801a3"
+
+[update]
+[update.modrinth]
+mod-id = "z9puNODX"
+version = "9aLkOdCH"
