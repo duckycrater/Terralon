@@ -1130,3 +1130,43 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "34e8181813d8f901bf2de89cececad856bc41d18168f808ac1f862b9cc872e02"
 metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "8505f522e9303d3b62fc1776ac314d1ca4a790d2c400098addc82c78ef401480"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "837191a22ea97cb06345a38ca872d22b33a97aa353bea8e101171e76ce29aad3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "cea92801d142019fab01963d329fbdde6655f7950f7982696a98907bc340549f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "0920a9dc49922eecfcb31ba2e7015c8c8da021e6a1769e6a6c5035c0e64dfa1c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "6a0a48d09a7d6b66034739ad4043f434b535751e7ed7cb6044b08757b38f310b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "c9f54cfc9c24b81b419d33104732a70c80f2cbc449346a55131d6c8098a23ebf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "01a04df128fe021c9fbce79296c6550fa3abe55d010b0dd5df51700e4d2057ac"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "ebb903bad1b5b99cf9384093708a65d0f72186432c436bb536487253770c32f7"
+metafile = true
