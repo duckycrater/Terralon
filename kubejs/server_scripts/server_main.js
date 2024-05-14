@@ -33,7 +33,7 @@ ServerEvents.recipes(e=>{
 })
 
 ServerEvents.customCommand('origin', event => {
-    event.server.runCommand('origin gui @p')
+    event.server.runCommand('origin gui @s')
 })
 
 ServerEvents.tags('item', e=>{

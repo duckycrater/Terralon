@@ -110,7 +110,7 @@ hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "665e12707ee92d75be8ac7231e7477927149348f334f795e479e0b16db5a686f"
+hash = "43dac22db37b6e34cec7e2c8417353b4efb43c8385b850629b302742620b33b4"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
