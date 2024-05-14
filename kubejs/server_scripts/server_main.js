@@ -33,7 +33,7 @@ ServerEvents.recipes(e=>{
 })
 
 ServerEvents.customCommand('origin', event => {
-    event.server.runCommand('execute as @s run origin gui @s')
+    event.server.runCommand('origin gui ' + event.player.username)
 })
 
 ServerEvents.tags('item', e=>{

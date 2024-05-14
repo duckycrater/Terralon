@@ -50,7 +50,7 @@ hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
 [[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "e2d0630a84e8d9e076d8d0f3e6949231e6c88fd3ed7c7b5778553c3e2d45e611"
+hash = "a9f58ff4ccc735a523564bdf3c78627cf9d8b834b7454d041587bea7ad3c5cb3"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -110,7 +110,7 @@ hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "22968a7b89778c22d962a38ff8c8664725f435b767a17f94468a049119929064"
+hash = "1d22add9955f50d08fd19c4d621b529369d84d339f8e46cdd4acf0d88ded56eb"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
