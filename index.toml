@@ -493,6 +493,11 @@ hash = "03eb7d41ca9aa1607eb7ac8db269b57ad1745553f2f9650255ea5d25823d17bd"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "7537d7db35d975d7d0bbb7de3b6658a8d4c10f18e4813111d91259bddb192c42"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
