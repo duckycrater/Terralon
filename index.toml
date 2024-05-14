@@ -50,7 +50,7 @@ hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
 [[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "41f11adfbd093c8dbdc47115f3cd6e9b27112967706d382eb58db6f2acef87a9"
+hash = "e2d0630a84e8d9e076d8d0f3e6949231e6c88fd3ed7c7b5778553c3e2d45e611"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -110,7 +110,7 @@ hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "d1ddc58bdd125673c12ca641d5957516ae806bfee413b062624b433984747691"
+hash = "aa8a1b82808544ec82a12b668ae9e07e3f4d76f1abb8e6edebd69e6a82917f6e"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
@@ -790,6 +790,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
 metafile = true
 
 [[files]]

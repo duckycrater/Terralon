@@ -28,11 +28,12 @@ ServerEvents.recipes(e=>{
         C: 'powah:energy_cell_nitro',
         S: '#c:titanium_plates'
     })
+
+    e.replaceOutput({output:'minecraft:end_portal_frame'})
 })
 
 ServerEvents.customCommand('origin', event => {
-    event.player.give(Item.of('origins:orb_of_origin', 1))
-    event.server.runCommandSilent('origin gui ${event.entity.uuid}')
+    event.server.runCommand('origin gui @p')
 })
 
 ServerEvents.tags('item', e=>{
@@ -43,6 +44,7 @@ ServerEvents.tags('item', e=>{
     e.add('fayne_origins:strong_metal_repair_resources','modern_industrialization:titanium_ingot')
     e.add('fayne_origins:energy_sources','minecraft:coal')
     e.add('fayne_origins:energy_sources','minecraft:charcoal')
+    e.add('fayne_origins:energy_sources','modern_industrialization:lignite_coal')
     e.add('fayne_origins:energy_sources','minecraft:redstone')
     e.add('fayne_origins:energy_sources','minecraft:glowstone_dust')
     e.add('fayne_origins:energy_sources','minecraft:blaze_powder')

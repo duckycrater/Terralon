@@ -5,3 +5,4 @@ packwiz.exe
 .gitattributes
 README.md
 TODO.md
+*.code-workspace
