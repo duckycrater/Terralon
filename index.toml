@@ -718,11 +718,6 @@ hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "194d13ceaa86cb40f169f806db13b5278ee7e41ff14f0c6b0fe5a1ac0e608690"
 metafile = true
