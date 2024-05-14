@@ -29,7 +29,7 @@ ServerEvents.recipes(e=>{
         S: '#c:titanium_plates'
     })
 
-    e.replaceOutput({output:'minecraft:end_portal_frame'})
+    //e.replaceOutput({output:'minecraft:end_portal_frame'})
 })
 
 ServerEvents.customCommand('origin', event => {
