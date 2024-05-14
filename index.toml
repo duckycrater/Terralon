@@ -110,7 +110,7 @@ hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "fb5b570fbc1414a07696fb86d3e730b6e3fda970e27a915bb0e816ba3d89da9a"
+hash = "d1ddc58bdd125673c12ca641d5957516ae806bfee413b062624b433984747691"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
@@ -385,11 +385,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-byg-compat.pw.toml"
 hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "b82efa6d9cfa70fa80ba556bb1fc022b22e9b03a1873642afc731b0405cab021"
 metafile = true
 
 [[files]]
