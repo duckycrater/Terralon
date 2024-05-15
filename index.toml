@@ -247,6 +247,11 @@ hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "f3cf0f8490a619b039cb23b4c7d640d2771c83041d0a01f344eb7486962c220d"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
