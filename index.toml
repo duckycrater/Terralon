@@ -903,6 +903,11 @@ hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
+file = "mods/mob-filter.pw.toml"
+hash = "63e4b1f7a01d000343d04ccd5fc5765b5912e827be6b3f2898ef306e7e0193dd"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "68d0545bf74a4eb2a96a79b6f2aec7448d8e33c062be328dfddc76909b8b40b6"
 metafile = true
