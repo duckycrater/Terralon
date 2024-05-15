@@ -105,8 +105,12 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
-file = "defaultconfigs/hwg.toml"
-hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
+file = "defaultconfigs/hwg.json"
+hash = "c25c02fee05d741331a829da08d5bf60a884575b5cf74c7f4a1cc05df6df231e"
+
+[[files]]
+file = "defaultconfigs/mobfilter.yaml"
+hash = "d4811c24667b1140623f1a02f14cb30766274b0936aaf9f32118eac8138f5207"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
