@@ -903,8 +903,8 @@ hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
-file = "mods/mob-filter.pw.toml"
-hash = "63e4b1f7a01d000343d04ccd5fc5765b5912e827be6b3f2898ef306e7e0193dd"
+file = "mods/mobfilter.pw.toml"
+hash = "e9319a8465685d895398adb6f4303aa70322762dd80cd8fdaf6d08b1c7577341"
 metafile = true
 
 [[files]]
