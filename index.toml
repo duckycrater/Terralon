@@ -54,7 +54,7 @@ hash = "f0b95d6c499c82bff47d923c7e407e185375ab435f3af336df9b9c96594506bc"
 
 [[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "a9f58ff4ccc735a523564bdf3c78627cf9d8b834b7454d041587bea7ad3c5cb3"
+hash = "bdd194f914803005c8f859e569d736a6f602c81c110e11cab0c1d1740855e999"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -117,8 +117,28 @@ file = "defaultconfigs/mobfilter.yaml"
 hash = "d4811c24667b1140623f1a02f14cb30766274b0936aaf9f32118eac8138f5207"
 
 [[files]]
+file = "kubejs/assets/fayne_origins/textures/item/light_repair_pack.png"
+hash = "6e74964dc4315fd2e3335b55c157e3197f6294bff82050ad2770e1c45f2039cb"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_core.png"
+hash = "8339b92cd2249e276742f8db5a5cb388e06946957529aaf491e91f57544aba95"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_kit.png"
+hash = "b2c09c3fa288327639673cff2c1c48daa289e9c559315b4b684d3e4bd88a73b9"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robust_repair_pack.png"
+hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
+
+[[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "1d22add9955f50d08fd19c4d621b529369d84d339f8e46cdd4acf0d88ded56eb"
+hash = "578e216d4ac169369c8e427a6abfb93e4caa1bbe043c3598f9f67cc51cbaa1fd"
+
+[[files]]
+file = "kubejs/startup_scripts/startup_main.js"
+hash = "3ef5959cc6ea267874d7b8bb066d111cfbe7ec398baaeda24e1296e9da0505b4"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
