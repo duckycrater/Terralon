@@ -11,3 +11,8 @@ hash = "68e8dcf1dd7a26c47279ee5cfe9458dbad00e424"
 [update.modrinth]
 mod-id = "u5Ic2U1u"
 version = "5R7l84zv"
+
+[option]
+optional = true
+description = ""Mouse Wheelie Sucks" - Tilles. Please change this to something more accurate."
+default = true
