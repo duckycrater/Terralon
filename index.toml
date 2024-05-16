@@ -387,6 +387,11 @@ hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
+metafile = true
+
+[[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "38cca5dbcc34c2e0f71da842bb6401bf45ead1a8886160105ac1d6ddc4cbb97b"
 metafile = true
@@ -589,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "497023ee90ed5483260663286cf125edc2a3baa6918d71603733236a1bca749d"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "3b2ca8086e7b6b2a5ee67ff114cd51bf17d6f4bba8491dbb5f68d54e9fd1fe92"
 metafile = true
 
 [[files]]
@@ -802,8 +812,8 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
+file = "mods/leaves-be-gone.pw.toml"
+hash = "4e9944ed75707dc4deec44bccb77b9f68300d3a4fb724b1e88c75f23a00d142a"
 metafile = true
 
 [[files]]
