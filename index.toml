@@ -617,6 +617,11 @@ hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "34beba69eddf7dc3eb7e4cda05997cb5962e3285c120a16c24db2e831bb8afa9"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "16a29c493ce95cbcfdfa5e29d9962d9a56cf21507e20156b1d452f1a77cfc271"
 metafile = true
@@ -1229,6 +1234,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
 metafile = true
 
 [[files]]
