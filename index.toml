@@ -21,6 +21,10 @@ file = "config/mobcap_modifier.json5"
 hash = "c0264694788a21ec60681d51796db3623333d4b56e2af7ee2c6c7fc985b888ec"
 
 [[files]]
+file = "config/mobfilter.yaml"
+hash = "d4811c24667b1140623f1a02f14cb30766274b0936aaf9f32118eac8138f5207"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "d36f14dcfa96b1efc2e86de657651da6e99de700bbf48edb1ff2e073e67f1a1d"
 
@@ -49,8 +53,12 @@ file = "config/paxi/datapacks/Bliss 1.4.2-1.19.2.zip"
 hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
 
 [[files]]
+file = "config/paxi/datapacks/Cirn_Origin_1.1.2.2.zip"
+hash = "f0b95d6c499c82bff47d923c7e407e185375ab435f3af336df9b9c96594506bc"
+
+[[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "41f11adfbd093c8dbdc47115f3cd6e9b27112967706d382eb58db6f2acef87a9"
+hash = "bdd194f914803005c8f859e569d736a6f602c81c110e11cab0c1d1740855e999"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -63,6 +71,22 @@ hash = "bbbefd9274aa1c23730277984e17c3543e680184fa85ccc005f203d1764da2d9"
 [[files]]
 file = "config/paxi/datapacks/SprectrumHider.zip"
 hash = "24e7d52b0300d82c400f9a95bfad276457f64638549f2d5ad5ed60b3d375b4ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/haema/textures/item/empty_vampire_blood_injector.png"
+hash = "201a2c058c007729874abb234c84b1c8a1c1fd79161343804ef6a2c3e92abb40"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/haema/textures/item/vampire_blood_injector.png"
+hash = "795ee26d2dbbb6744d7207ec9223ac7143d6c6ae73ebb207ce645779ad2c2157"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/pack.mcmeta"
+hash = "0827ee3d4405695b5266aa33c995fefa8d0763ce9a7b1d350be2c40a0a4cbf3d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/pack.png"
+hash = "795ee26d2dbbb6744d7207ec9223ac7143d6c6ae73ebb207ce645779ad2c2157"
 
 [[files]]
 file = "config/paxi/resourcepacks/Fayne Origins.zip"
@@ -105,12 +129,32 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
-file = "defaultconfigs/hwg.toml"
-hash = "a393327b02e7fbc9647cfe98026ece12ecd67127c25f1d64537a674ac120d508"
+file = "defaultconfigs/hwg.json"
+hash = "c25c02fee05d741331a829da08d5bf60a884575b5cf74c7f4a1cc05df6df231e"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/light_repair_pack.png"
+hash = "6e74964dc4315fd2e3335b55c157e3197f6294bff82050ad2770e1c45f2039cb"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_core.png"
+hash = "8339b92cd2249e276742f8db5a5cb388e06946957529aaf491e91f57544aba95"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_kit.png"
+hash = "b2c09c3fa288327639673cff2c1c48daa289e9c559315b4b684d3e4bd88a73b9"
+
+[[files]]
+file = "kubejs/assets/fayne_origins/textures/item/robust_repair_pack.png"
+hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "d1ddc58bdd125673c12ca641d5957516ae806bfee413b062624b433984747691"
+hash = "578e216d4ac169369c8e427a6abfb93e4caa1bbe043c3598f9f67cc51cbaa1fd"
+
+[[files]]
+file = "kubejs/startup_scripts/startup_main.js"
+hash = "3ef5959cc6ea267874d7b8bb066d111cfbe7ec398baaeda24e1296e9da0505b4"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
@@ -233,6 +277,11 @@ hash = "378704b4e71ff0698c980cb7cfe2c5ce990d8504dc0eb171ea6e477148da2202"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
@@ -240,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "f3cf0f8490a619b039cb23b4c7d640d2771c83041d0a01f344eb7486962c220d"
 metafile = true
 
 [[files]]
@@ -265,11 +319,6 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
-metafile = true
-
-[[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "9ea55725305938b27c0328b0671103d10201f8417bd5b8b2a5bd49fefc27a79f"
 metafile = true
 
 [[files]]
@@ -333,8 +382,8 @@ hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "38cca5dbcc34c2e0f71da842bb6401bf45ead1a8886160105ac1d6ddc4cbb97b"
+file = "mods/crawl.pw.toml"
+hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
@@ -448,11 +497,6 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "69d8e9475565ef13a5bc7b2236d5c538ddb51075b87445c9966ef509a21490c3"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
@@ -468,8 +512,23 @@ hash = "430567cd5fd2b2a1b02595dd638cbc94f090b00ee48bb07efa075817ce0305b7"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "4abd98b222bbf981fa0821bf914f3dad1f9333f81cfba056c24cb1080c137330"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "d77bd4aaf304323614808767dd5265368b5becdc7916bb303dda63d774ace5c9"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "b39f2371f54b93c7fbd8be10f389dccd03b8e0a5d3c828ac8b1789e6ee1a7c2a"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "9ca0882b3bbe3285b165c8cdb0288cb5d252897544c8235147a8a6db811d1a50"
 metafile = true
 
 [[files]]
@@ -489,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "03eb7d41ca9aa1607eb7ac8db269b57ad1745553f2f9650255ea5d25823d17bd"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
 metafile = true
 
 [[files]]
@@ -528,6 +587,11 @@ hash = "497023ee90ed5483260663286cf125edc2a3baa6918d71603733236a1bca749d"
 metafile = true
 
 [[files]]
+file = "mods/fsit.pw.toml"
+hash = "3b2ca8086e7b6b2a5ee67ff114cd51bf17d6f4bba8491dbb5f68d54e9fd1fe92"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
@@ -540,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/gravity-api.pw.toml"
 hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "34beba69eddf7dc3eb7e4cda05997cb5962e3285c120a16c24db2e831bb8afa9"
 metafile = true
 
 [[files]]
@@ -653,6 +722,11 @@ hash = "baf0c25b0eccca22191c2bec40d8733e6e23933cf26f740fc876c7c80615205e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581"
+metafile = true
+
+[[files]]
 file = "mods/impaled.pw.toml"
 hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
@@ -718,11 +792,6 @@ hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "194d13ceaa86cb40f169f806db13b5278ee7e41ff14f0c6b0fe5a1ac0e608690"
 metafile = true
@@ -738,8 +807,8 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
+file = "mods/leaves-be-gone.pw.toml"
+hash = "4e9944ed75707dc4deec44bccb77b9f68300d3a4fb724b1e88c75f23a00d142a"
 metafile = true
 
 [[files]]
@@ -795,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
 metafile = true
 
 [[files]]
@@ -898,6 +972,11 @@ hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "e9319a8465685d895398adb6f4303aa70322762dd80cd8fdaf6d08b1c7577341"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "68d0545bf74a4eb2a96a79b6f2aec7448d8e33c062be328dfddc76909b8b40b6"
 metafile = true
@@ -975,6 +1054,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "d4d388f59090614ace6edb787f7495328a3fd1d80f229f9ed8891f88befd0ef5"
 metafile = true
 
 [[files]]
@@ -1143,6 +1227,11 @@ hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ea54599083767022492eaa76cce7cafe40103d3a015b8012dc34761e464d0ed0"
 metafile = true
@@ -1225,11 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
