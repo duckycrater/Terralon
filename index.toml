@@ -392,11 +392,6 @@ hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "38cca5dbcc34c2e0f71da842bb6401bf45ead1a8886160105ac1d6ddc4cbb97b"
-metafile = true
-
-[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "97a4d63f6689761d61ec848d18f945007b86d0d54658ae52b3824ceb0efc4a28"
 metafile = true
@@ -1324,11 +1319,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "1fd2c6bb48d1c99ecd5f3d7bcf1e9c8700481e85388e8709698e15f135026807"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
