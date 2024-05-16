@@ -58,7 +58,7 @@ hash = "f0b95d6c499c82bff47d923c7e407e185375ab435f3af336df9b9c96594506bc"
 
 [[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "bdd194f914803005c8f859e569d736a6f602c81c110e11cab0c1d1740855e999"
+hash = "098cc6ccc52b8a7636e5820b48c263a3d1b3516dddf340d67a7dce93ec101b03"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -150,7 +150,7 @@ hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "578e216d4ac169369c8e427a6abfb93e4caa1bbe043c3598f9f67cc51cbaa1fd"
+hash = "4975f6b3d7448593baa5317bf9b50d7db328ba3a9623c38dee066393cd7b1cec"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"

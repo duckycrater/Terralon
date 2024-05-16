@@ -58,13 +58,28 @@ ServerEvents.customCommand('the_book', e=>{
     e.player.give(Item.of('eccentrictome:tome', '{"eccentrictome:mods":{ae2:{0:{Count:1b,id:"ae2:guide"}},bewitchment:{0:{Count:1b,id:"bewitchment:book_of_shadows"}},botania:{0:{Count:1b,id:"botania:lexicon"}},haema:{0:{Count:1b,id:"haema:book_of_blood"}},hexcasting:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"hexcasting:thehexbook"}}},modern_industrialization:{0:{Count:1b,id:"modern_industrialization:guidebook"}},powah:{0:{Count:1b,id:"powah:book"}},spectrum:{0:{Count:1b,id:"spectrum:guidebook"}}},"eccentrictome:version":1}').enchant('yigd:soulbound', 1))
 })
 
+ServerEvents.customCommand('event_mode_on',e=>{
+    if (e.player.hasPermission(2)) {
+        e.server.runCommandSilent('scoreboard objectives setdisplay belowName')
+        e.server.runCommandSilent('gamerule keepInventory false')
+        e.server.runCommandSilent('gamerule doDaylightCycle false')
+    }
+})
+
+ServerEvents.customCommand('event_mode_off',e=>{
+    if (e.player.hasPermission(2)) {
+        e.server.runCommandSilent('scoreboard objectives setdisplay belowName deaths')
+        e.server.runCommandSilent('gamerule keepInventory true')
+        e.server.runCommandSilent('gamerule doDaylightCycle true')
+    }
+})
+
 ServerEvents.tags('item', e=>{
     e.add('fayne_origins:metal_repair_resources','kubejs:light_repair_pack')
     e.add('fayne_origins:strong_metal_repair_resources','kubejs:robust_repair_pack')
     e.add('fayne_origins:energy_sources','minecraft:coal')
     e.add('fayne_origins:energy_sources','minecraft:charcoal')
     e.add('fayne_origins:energy_sources','modern_industrialization:lignite_coal')
-    e.add('fayne_origins:energy_sources','minecraft:redstone')
     e.add('fayne_origins:energy_sources','minecraft:glowstone_dust')
     e.add('fayne_origins:energy_sources','minecraft:blaze_powder')
     //e.add('fayne_origins:high_energy_sources','minecraft:blaze_rod')
