@@ -1,0 +1,13 @@
+name = "Etched"
+filename = "etched-fabric-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9b0844acfc4042a50066b661f3b11034e46e160"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5060423
+project-id = 491890

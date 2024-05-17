@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
 metafile = true
 
 [[files]]
@@ -294,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "f3cf0f8490a619b039cb23b4c7d640d2771c83041d0a01f344eb7486962c220d"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "48aae867ea4211efa069c4f9fc182c1d53060339da6a94960bf2c3967f1c9bbd"
 metafile = true
 
 [[files]]
@@ -507,6 +512,11 @@ hash = "2784d741c432a2cf16ba7bd11a75244cd75b30b5113d9def8c82784a58c28405"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "57737cd406843857b63449172ef723a14487cd408e234af0d854bd4068234ab1"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "430567cd5fd2b2a1b02595dd638cbc94f090b00ee48bb07efa075817ce0305b7"
 metafile = true
@@ -538,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
 metafile = true
 
 [[files]]
@@ -1094,6 +1104,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "03b86fdfd000f80a5fd877efe0b1489b416b91407fd9a52051fa79db633659f9"
 metafile = true
 
 [[files]]
