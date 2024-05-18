@@ -28,6 +28,11 @@ ServerEvents.recipes(e=>{
         C: 'powah:energy_cell_nitro',
         S: '#c:titanium_plates'
     })
+    
+    e.shapeless('minecraft:nametag', [
+        'minecraft:string',
+        'minecraft:paper'
+    ])
 
     e.shapeless('3x kubejs:light_repair_pack', [
         '3x #c:nuggets',
@@ -59,19 +64,19 @@ ServerEvents.customCommand('the_book', e=>{
 })
 
 ServerEvents.customCommand('event_mode_on',e=>{
-    if (e.player.hasPermission(2)) {
-        e.server.runCommandSilent('scoreboard objectives setdisplay belowName')
-        e.server.runCommandSilent('gamerule keepInventory false')
-        e.server.runCommandSilent('gamerule doDaylightCycle false')
-    }
+    //if (e.player.hasPermission(2)) {
+    //    e.server.runCommandSilent('scoreboard objectives setdisplay belowName')
+    //    e.server.runCommandSilent('gamerule keepInventory false')
+    //    e.server.runCommandSilent('gamerule doDaylightCycle false')
+    //}
 })
 
 ServerEvents.customCommand('event_mode_off',e=>{
-    if (e.player.hasPermission(2)) {
-        e.server.runCommandSilent('scoreboard objectives setdisplay belowName deaths')
-        e.server.runCommandSilent('gamerule keepInventory true')
-        e.server.runCommandSilent('gamerule doDaylightCycle true')
-    }
+    //if (e.player.hasPermission(2)) {
+    //    e.server.runCommandSilent('scoreboard objectives setdisplay belowName deaths')
+    //    e.server.runCommandSilent('gamerule keepInventory true')
+    //    e.server.runCommandSilent('gamerule doDaylightCycle true')
+    //}
 })
 
 ServerEvents.tags('item', e=>{
