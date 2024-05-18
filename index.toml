@@ -42,7 +42,7 @@ hash = "481c006c5122ae968bc0973ced7bb092210af40937386b878beace592fccc2e4"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/medium_blood_sources.json"
-hash = "be1fcb57d1787a85e0266b8cbe9deeceb7eda3fdb0a66503f46ed08c733d47f9"
+hash = "d4186321ecb158070d7dc0237b687f0df87778cd1a0d075f0f54da17fecff5e4"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/pack.mcmeta"
