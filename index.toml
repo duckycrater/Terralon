@@ -5,6 +5,14 @@ file = "config/Spectrum.json5"
 hash = "ba30a4017868d84dc44fc3853da9d246b19ace1a51340ad1772669ae4ba44dba"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "4ec2c444059c4c42fc4224b599c7844dc2a0422a071542f5cba4928a58bc5a45"
+
+[[files]]
+file = "config/ae2/common.json.bak"
+hash = "d520e8ac4fea8ce88a853ff94f3027ee5aa6ef1457ed911ccf8bc14ceeed49bb"
+
+[[files]]
 file = "config/almostunified/unify.json"
 hash = "5669d645311c1ab4122b92d5b424cfcec873ce6adb6d31f7fee5a9dc228ab83e"
 
@@ -150,7 +158,7 @@ hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "04e885f2d60af5e0f1c82c72750d608f563ba3a6d707339af815342ca2e21868"
+hash = "42b02bcb52fcf8f63b4fc2371af01118d5ec4802a2951903de4b63b462580764"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"
@@ -204,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "d24195f590be8695c74a071b37081234aafdb5cd49c726c7285a990bc2639517"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "d39ca86e4cac594b8386fb9436711b49d86820e7b8eff91c36c6c47623ee6bbb"
 metafile = true
 
 [[files]]
@@ -812,6 +825,11 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
+file = "mods/launchers.pw.toml"
+hash = "1f0eb2c8c53598606e272773594c8a8ea79dfe4a9e7c2248b13a66010bad2a64"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -987,6 +1005,16 @@ hash = "e9319a8465685d895398adb6f4303aa70322762dd80cd8fdaf6d08b1c7577341"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "57b37ebbaf8cd5720931941ee65f65838498795145c95df00a941e0b9921e4c6"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization-sound-addon.pw.toml"
+hash = "2828e9ef2a1c59ba50dd1c15238256db8c16a62de0fcf2eb64ed576a1488e10e"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "68d0545bf74a4eb2a96a79b6f2aec7448d8e33c062be328dfddc76909b8b40b6"
 metafile = true
@@ -1142,6 +1170,11 @@ hash = "ac31d05e5d2c1694d953820ff05fe7cfc1d91450e66430bc8904dd61a082de5a"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "472ec083d86beb00ff172c6529522f7b098299293cfcf37271b4fa11e052235e"
 metafile = true
@@ -1284,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/sync-fabric.pw.toml"
 hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
 
 [[files]]
