@@ -32,7 +32,7 @@ ServerEvents.recipes(e=>{
         S: '#c:titanium_plates'
     })
     
-    e.shapeless('minecraft:name_tag', [
+    e.shapeless('1x minecraft:name_tag', [
         'minecraft:string',
         'minecraft:paper'
     ])
@@ -56,6 +56,12 @@ ServerEvents.recipes(e=>{
         I: '#c:iron_plates',
         G: 'minecraft:gold_ingot'
     })
+    e.remove({output: 'minecraft:amethyst_shard', input: 'minecraft:amethyst_block'})
+    e.remove({output: 'spectrum:citrine_shard', input: 'spectrum:citrine_block'})
+    e.remove({output: 'spectrum:topaz_shard', input: 'spectrum:topaz_block'})
+    e.recipes.create.crushing([Item.of('minecraft:amethyst_shard', 3), Item.of('minecraft:amethyst_shard').withChance(0.5)], 'minecraft:amethyst_block')
+    e.recipes.create.crushing([Item.of('spectrum:citrine_shard', 3), Item.of('spectrum:citrine_shard').withChance(0.5)], 'spectrum:citrine_block')
+    e.recipes.create.crushing([Item.of('spectrum:topaz_shard', 3), Item.of('spectrum:topaz_shard').withChance(0.5)], 'spectrum:topaz_block')
 })
 
 ServerEvents.customCommand('origin', event => {

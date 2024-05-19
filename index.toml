@@ -66,7 +66,7 @@ hash = "f0b95d6c499c82bff47d923c7e407e185375ab435f3af336df9b9c96594506bc"
 
 [[files]]
 file = "config/paxi/datapacks/Fayne Origins.zip"
-hash = "9d108305f00af7edde0d1b10cab284cafd3d2d02e86de2809cec87bd56ee1a3b"
+hash = "57811b38ac7271dee9f02053dd709e65be41e860b24b74eefb29556d5496876d"
 
 [[files]]
 file = "config/paxi/datapacks/Lunacy 1.0.3.zip"
@@ -158,7 +158,7 @@ hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "38bfbbd96bc8f2405dec39fc8d53ec9ce63c67d1a330301b1182888a04f921ea"
+hash = "257e9dca94b649738559b713359e99c82c57ce1b56d66b04b6d3f3db337430ea"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"
@@ -812,6 +812,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "3a18abe31426a5abe8a607794c0d22cbb726d9c1696ef9a21edded0ff26f85a1"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "c5de61a84348cb75101bcd9e3067b689db172d25d13ecde51750d05ead2bf444"
 metafile = true
 
 [[files]]
