@@ -47,15 +47,15 @@ ServerEvents.recipes(e=>{
         '3x #c:ingots',
         '2x #c:nuggets'
     ])
-    e.shaped('kubejs:robot_upgrade_kit', [
-        'III',
-        'GCG',
-        'GGG'
-    ], {
-        C: 'kubejs:robot_upgrade_core',
-        I: '#c:iron_plates',
-        G: 'minecraft:gold_ingot'
-    })
+    //e.shaped('kubejs:robot_upgrade_kit', [
+    //    'III',
+    //    'GCG',
+    //    'GGG'
+    //], {
+    //    C: 'kubejs:robot_upgrade_core',
+    //    I: '#c:iron_plates',
+    //    G: 'minecraft:gold_ingot'
+    //})
     e.remove({output: 'minecraft:amethyst_shard', input: 'minecraft:amethyst_block'})
     e.remove({output: 'spectrum:citrine_shard', input: 'spectrum:citrine_block'})
     e.remove({output: 'spectrum:topaz_shard', input: 'spectrum:topaz_block'})
