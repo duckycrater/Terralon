@@ -98,7 +98,7 @@ hash = "93486d541408248a3b91f9f578bb947bb0e99885bb738ef4c24c517353429cf0"
 
 [[files]]
 file = "config/yttr.css"
-hash = "33df97bed8560b5f3b5300bcc6475a01f84bf84a4b5f4e74b265a0cc32f0406c"
+hash = "bf62b940997dec7277fc958c9029deab969cb5250a64facf76a2ebc97d5b5dc7"
 
 [[files]]
 file = "configureddefaults/config/hexcasting/client.json5"
