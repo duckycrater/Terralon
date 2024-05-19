@@ -6,7 +6,7 @@ ServerEvents.recipes(e=>{
     e.remove({output: 'tempad:tempad'})
 	e.shapeless('ae2:damaged_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:quartz_block'])
 	e.shapeless('ae2:chipped_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:damaged_budding_quartz'])
-	e.shapeless('ae2:flawed_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:ae2:chipped_budding_quartz'])
+	e.shapeless('ae2:flawed_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:chipped_budding_quartz'])
     e.shaped('tempad:tempad', [
         'SPS',
         'MHU',
@@ -32,7 +32,7 @@ ServerEvents.recipes(e=>{
         S: '#c:titanium_plates'
     })
     
-    e.shapeless('minecraft:nametag', [
+    e.shapeless('minecraft:name_tag', [
         'minecraft:string',
         'minecraft:paper'
     ])
