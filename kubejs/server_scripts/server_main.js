@@ -1,7 +1,6 @@
 ServerEvents.recipes(e=>{
     // Removed OP sword from MI.
     e.remove({output: 'modern_industrialization:quantum_sword'})
-}
     e.remove({output: 'tempad:tempad'})
 	e.shapeless('ae2:damaged_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:quartz_block'])
 	e.shapeless('ae2:chipped_budding_quartz', ['ae2:charged_certus_quartz_crystal', 'ae2:damaged_budding_quartz'])
@@ -46,29 +45,26 @@ ServerEvents.recipes(e=>{
         '3x #c:ingots',
         '2x #c:nuggets'
     ])
-	
-ServerEvents.recipes(e => {
-  e.recipes.create.mechanical_crafting('kubejs:robot_upgrade_core', [
-    'YSY',
-    'HCH',
-    'NTN'
-], {
-    N: 'create_new_age:nuclear_fuel',
-    T: 'minecraft:totem_of_undying',
-    H: 'moderndynamics:hv_cable',
-	C: 'techreborn:data_storage_chip',
-	Y: 'yttr:cage_lamp',
-	S: 'powah:energy_hopper_spirited'
-	})
-})
-
-ServerEvents.recipes(e => {
-	e.recipes.create.sequenced_assembly([
-		Item.of('kubejs:robot_upgrade_kit')], 'kubejs:robot_upgrade_core', [
-		e.recipes.createDeploying('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', 'techreborn:lapotronic_orb']),
-		e.recipes.createPressing('kubejs:incomplete_robot_upgrade_kit', 'kubejs:incomplete_robot_upgrade_kit'),
-		e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 1000)]),
-	]).transitionalItem('kubejs:incomplete_robot_upgrade_kit')
+    
+    e.recipes.create.mechanical_crafting('kubejs:robot_upgrade_core', [
+        'YSY',
+        'HCH',
+        'NTN'
+    ], {
+        N: 'create_new_age:nuclear_fuel',
+        T: 'minecraft:totem_of_undying',
+        H: 'moderndynamics:hv_cable',
+        C: 'techreborn:data_storage_chip',
+        Y: 'yttr:cage_lamp',
+        S: 'powah:energy_hopper_spirited'
+    })
+    
+    e.recipes.create.sequenced_assembly([
+        Item.of('kubejs:robot_upgrade_kit')], 'kubejs:robot_upgrade_core', [
+        e.recipes.createDeploying('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', 'techreborn:lapotronic_orb']),
+        e.recipes.createPressing('kubejs:incomplete_robot_upgrade_kit', 'kubejs:incomplete_robot_upgrade_kit'),
+        e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 1000)]),
+    ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit')
 
     e.remove({output: 'minecraft:amethyst_shard', input: 'minecraft:amethyst_block'})
     e.remove({output: 'spectrum:citrine_shard', input: 'spectrum:citrine_block'})
@@ -77,6 +73,7 @@ ServerEvents.recipes(e => {
     e.recipes.create.crushing([Item.of('spectrum:citrine_shard', 3), Item.of('spectrum:citrine_shard').withChance(0.5)], 'spectrum:citrine_block')
     e.recipes.create.crushing([Item.of('spectrum:topaz_shard', 3), Item.of('spectrum:topaz_shard').withChance(0.5)], 'spectrum:topaz_block')
 })
+  
 
 ServerEvents.customCommand('origin', event => {
     event.server.runCommand('origin gui ' + event.player.username)
