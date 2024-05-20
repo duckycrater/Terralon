@@ -162,7 +162,7 @@ hash = "74357474b1ced1db9f6544a41ee7e48137d968b4813c969e0e62dcf2410bbe06"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"
-hash = "3ef5959cc6ea267874d7b8bb066d111cfbe7ec398baaeda24e1296e9da0505b4"
+hash = "f7f13c0d3a70bad6979510e9acf1e50b4073b39968979a103334434136452e83"
 
 [[files]]
 file = "mods/adapted-origins.pw.toml"
