@@ -141,6 +141,10 @@ file = "defaultconfigs/hwg.json"
 hash = "c25c02fee05d741331a829da08d5bf60a884575b5cf74c7f4a1cc05df6df231e"
 
 [[files]]
+file = "kubejs/assets/fayne_origins/textures/item/incomplete_robot_upgrade_kit.png"
+hash = "1394f1d5990faedc148fec90eba34a28bc787d226567cba487273994680ee4b0"
+
+[[files]]
 file = "kubejs/assets/fayne_origins/textures/item/light_repair_pack.png"
 hash = "6e74964dc4315fd2e3335b55c157e3197f6294bff82050ad2770e1c45f2039cb"
 
@@ -158,7 +162,7 @@ hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
 file = "kubejs/server_scripts/server_main.js"
-hash = "a66c736d7ae1b960758d5d8f29125a90e0191d66ddb56106176ac6ddd11f76a3"
+hash = "3c364daad3cca8f7c7258161a081f72c0cb52d6966c5a5e33d64de91e5e8b2bc"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"

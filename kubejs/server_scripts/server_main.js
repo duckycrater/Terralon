@@ -64,7 +64,7 @@ ServerEvents.recipes(e=>{
         e.recipes.createDeploying('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', 'techreborn:lapotronic_orb']),
         e.recipes.createPressing('kubejs:incomplete_robot_upgrade_kit', 'kubejs:incomplete_robot_upgrade_kit'),
         e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 1000)]),
-    ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit')
+    ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit').loops(0)
 
     e.remove({output: 'minecraft:amethyst_shard', input: 'minecraft:amethyst_block'})
     e.remove({output: 'spectrum:citrine_shard', input: 'spectrum:citrine_block'})
