@@ -146,11 +146,11 @@ hash = "6e74964dc4315fd2e3335b55c157e3197f6294bff82050ad2770e1c45f2039cb"
 
 [[files]]
 file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_core.png"
-hash = "8339b92cd2249e276742f8db5a5cb388e06946957529aaf491e91f57544aba95"
+hash = "f18d3a90715c8943bc1e52398d132702987c2b8efbc8e3c9f154a9ed9c0864cd"
 
 [[files]]
 file = "kubejs/assets/fayne_origins/textures/item/robot_upgrade_kit.png"
-hash = "b2c09c3fa288327639673cff2c1c48daa289e9c559315b4b684d3e4bd88a73b9"
+hash = "8a0294c9478f121e53d314e068820331b890e602de6ed5e10ac6ab777faf85c2"
 
 [[files]]
 file = "kubejs/assets/fayne_origins/textures/item/robust_repair_pack.png"
