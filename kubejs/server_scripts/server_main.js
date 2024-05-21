@@ -62,9 +62,9 @@ ServerEvents.recipes(e=>{
     e.recipes.create.sequenced_assembly([
         Item.of('kubejs:robot_upgrade_kit')], 'kubejs:robot_upgrade_core', [
         e.recipes.createDeploying('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', 'techreborn:lapotronic_orb']),
-        e.recipes.createPressing('kubejs:incomplete_robot_upgrade_kit', 'kubejs:incomplete_robot_upgrade_kit'),
+        e.custom({type: 'create_new_age:energising', energy_needed: 100000, ingredients: [{item: 'kubejs:incomplete_robot_upgrade_kit', count: 1}], results: [{item: 'kubejs:incomplete_robot_upgrade_kit', count: 1}]}),
         e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 81000)]),
-    ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit').loops(0)
+    ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit').loops(1)
 })
   
 
