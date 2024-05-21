@@ -65,13 +65,6 @@ ServerEvents.recipes(e=>{
         e.recipes.createPressing('kubejs:incomplete_robot_upgrade_kit', 'kubejs:incomplete_robot_upgrade_kit'),
         e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 81000)]),
     ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit').loops(0)
-
-    e.remove({output: 'minecraft:amethyst_shard', input: 'minecraft:amethyst_block'})
-    e.remove({output: 'spectrum:citrine_shard', input: 'spectrum:citrine_block'})
-    e.remove({output: 'spectrum:topaz_shard', input: 'spectrum:topaz_block'})
-    e.recipes.create.crushing([Item.of('minecraft:amethyst_shard', 3), Item.of('minecraft:amethyst_shard').withChance(0.5)], 'minecraft:amethyst_block')
-    e.recipes.create.crushing([Item.of('spectrum:citrine_shard', 3), Item.of('spectrum:citrine_shard').withChance(0.5)], 'spectrum:citrine_block')
-    e.recipes.create.crushing([Item.of('spectrum:topaz_shard', 3), Item.of('spectrum:topaz_shard').withChance(0.5)], 'spectrum:topaz_block')
 })
   
 
