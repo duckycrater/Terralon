@@ -509,6 +509,11 @@ hash = "01ddcaeb877ac678f725d028bb39e97cb6af23c8a77302c797b60ccf2b6faec8"
 metafile = true
 
 [[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
 metafile = true
