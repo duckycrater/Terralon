@@ -53,18 +53,6 @@ file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/medium_bl
 hash = "d4186321ecb158070d7dc0237b687f0df87778cd1a0d075f0f54da17fecff5e4"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO_Tweaks/data/origins/fish.json"
-hash = "cf6c87e1edb306b9d20f58aa9db12255db2e3e6972f13974fef6930c1ecd110b"
-
-[[files]]
-file = "config/paxi/datapacks/AIGO_Tweaks/data/origins/ignore_diet.json"
-hash = "319de08f9a05cfa944a2ed9dd7aa83d833861a667ef11537f564fb04874da950"
-
-[[files]]
-file = "config/paxi/datapacks/AIGO_Tweaks/data/origins/meat.json"
-hash = "17c6cfb7905cf99327f164057d56ddcf2e95044e1905ab831e0e8783a8b0ab9a"
-
-[[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/pack.mcmeta"
 hash = "bea7f275e4ca18b07bf0e5f21deb337d5ea6ba154a6d8a01c5b8368803c8d7b7"
 
