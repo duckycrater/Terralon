@@ -45,6 +45,23 @@ ServerEvents.recipes(e=>{
         '3x #c:ingots',
         '2x #c:nuggets'
     ])
+	
+	e.recipes.create.mechanical_crafting('techreborn:nuke', [
+        ' LSL ',
+        'NMRMN',
+		'NCACN',
+        'NFCFN',
+        ' NNN '
+    ], { 
+		A: 'ae2:singularity',
+        M: 'spectrum:moonstone_core',
+        N: 'modern_industrialization:nuke',
+        S: 'botania:red_string',
+        C: 'mythicmetals:carmot_nuke_core',
+        R: 'modern_industrialization:redstone_control_module',
+        F: 'techreborn:fusion_control_computer',
+		L: Item.of('yttr:cage_lamp', '{Inverted:1b,LampColor:"red"}').strongNBT()
+    })
     
     e.recipes.create.mechanical_crafting('kubejs:robot_upgrade_core', [
         'YSY',
