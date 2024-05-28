@@ -161,12 +161,28 @@ file = "kubejs/assets/fayne_origins/textures/item/robust_repair_pack.png"
 hash = "98a3664989f105f7c78507843c20698c4cb6b023063b5eefd33cc0ecda9fa9c9"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/expansion_screw_from_your_aunt.png"
+hash = "b51b9978319ba93a39b4aeeec01a06d1f530e82eab97adab5c1b665d526e723f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/galvanized_square_steel.png"
+hash = "551a2522220fd930f08d83ddc26ae4dcf72ad45682023bf3cb15c75e0470a622"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/galvanized_steel_rod.png"
+hash = "bad9a96860b69591ac05ab55ddb37347b7bc4aed1c4cc7fe991ab746754630cd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/iron_screw.png"
+hash = "195c6499eb34f895c1da5eef4ca4f9b5e98a7ae7d7ab4b7f7c63745ae0fce199"
+
+[[files]]
 file = "kubejs/server_scripts/server_main.js"
 hash = "cc88530662284c5d8482e9134c3dba1b1e0de4b6ee3610875e8c5ff4fefe9ebd"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"
-hash = "f7f13c0d3a70bad6979510e9acf1e50b4073b39968979a103334434136452e83"
+hash = "744a7c6f422ecdfda3c415bf6cff817e184c7e2f9a9efdac030498fd75dd374a"
 
 [[files]]
 file = "mods/adaptedorigins-1.19-2.3.0-FABRIC.jar"
