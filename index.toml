@@ -274,6 +274,11 @@ hash = "3304a70c83693aa8bf250a7b357f954ca7cfb9d841c1c00651722688bd7ab41f"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
 metafile = true
@@ -590,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
 
 [[files]]
@@ -1096,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "4ab3ca7caeb9d5d533c490ca1269f2bb9dd8f5ae84827188e7a9e602c41c4111"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "b2e961ce25cc0effb6c0d9fe71926de9f3ba491a2d200d309780611b861dd4c9"
 metafile = true
 
 [[files]]
