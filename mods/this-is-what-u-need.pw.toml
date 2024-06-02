@@ -1,0 +1,13 @@
+name = "This Is What U Need"
+filename = "ThisIsWhatUNeed-1.19.2-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oAm4Nrjc/versions/NTZpG0jV/ThisIsWhatUNeed-1.19.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "8b0cd35e67ce715cdb785d77677b872531c6dd62"
+
+[update]
+[update.modrinth]
+mod-id = "oAm4Nrjc"
+version = "NTZpG0jV"

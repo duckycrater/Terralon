@@ -1004,6 +1004,11 @@ hash = "8720b599a0eece31c386fc80604865ae85fdfd996f1c5eba51a2cc00c3657c98"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "9abb08d6dd517cf27d4bd593472af2f34e1430bece800926984a91bffff00342"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "af189a451e6363ae202163737b39b7ef410a541d75a2aa608268b5026d074925"
 metafile = true
@@ -1391,6 +1396,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "26661112ce3347245687056f5c8289670239ce997788f596c388a6123a0af3ae"
+metafile = true
+
+[[files]]
+file = "mods/this-is-what-u-need.pw.toml"
+hash = "98e3f5da45d2ee631ce037e608ccdc60a0c59fdd3ad088daaaacb92045a0ed41"
 metafile = true
 
 [[files]]
