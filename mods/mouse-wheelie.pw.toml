@@ -14,5 +14,5 @@ version = "5R7l84zv"
 
 [option]
 optional = true
-description = "Tilles specifically hates this mod."
+description = "Some people have had issues with the replace function of Mouse Wheelie crashing their game, but it provides many other useful inventory management features."
 default = true

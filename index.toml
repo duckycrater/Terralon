@@ -289,11 +289,6 @@ hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "ff2fd6f26bc6c4750067647d900023c3ea2b8af5e2931d169ebc6d083949758a"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
@@ -486,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "25a5c160ed1f2e8b9022896059f32ccc9d3e4fb4c1240a4c2829012929ed0ea4"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "958e539487ac905314c0a95d6cb4c81f4eb4e6a059b43f7583972bf3af60f95a"
+hash = "654bbef0a29779497c2124c2bd3070be40cfd9d9860ff0798d1016c5c16945f8"
 metafile = true
 
 [[files]]

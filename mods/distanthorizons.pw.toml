@@ -1,0 +1,18 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-2.0.1-a-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar"
+hash-format = "sha1"
+hash = "deeb9ced871f9d16933bb1a7d7e90f60f76cb180"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "aOWEQ1nc"
+
+[option]
+optional = true
+description = "Distant Horizons adds LOD to the game, allowing the rendering of simplified terrain beyond your render distance setting. This may provide a performance benefit, at a cost to detail in far-away terrain."
+default = true
