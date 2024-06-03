@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
-hash = "33c6bf4bcef36cec48010e09c0a5a5dbe79833c7d92285967c33c467bc351dec"
+hash = "2a01be5975b798885b48a10cf4189eb784639c704b8e9c73d0435aa82ca4cfe5"
 metafile = true
 
 [[files]]
