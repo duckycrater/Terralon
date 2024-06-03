@@ -224,6 +224,11 @@ hash = "6167d9db9cba836be87f0c909576ae981f5efee25e3eca2effd03eb6d088cffe"
 metafile = true
 
 [[files]]
+file = "mods/anvil-fix-reborn.pw.toml"
+hash = "33c6bf4bcef36cec48010e09c0a5a5dbe79833c7d92285967c33c467bc351dec"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true
