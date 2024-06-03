@@ -1094,6 +1094,11 @@ hash = "654bbef0a29779497c2124c2bd3070be40cfd9d9860ff0798d1016c5c16945f8"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "aa2e9887f3e7716b653b69c97d2a475d9be64da1a364d98cce3ea5685ffafba8"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
 metafile = true
