@@ -739,9 +739,8 @@ hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
 metafile = true
 
 [[files]]
-file = "mods/hexkinetics.pw.toml"
-hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
-metafile = true
+file = "mods/hexkinetics-fabric-1.19.2-0.7.3.jar"
+hash = "bde72d2c847d557e7a54ef0c4956e76b21d9f973e5b4748bffa3e59fdac613a9"
 
 [[files]]
 file = "mods/hexlink.pw.toml"
