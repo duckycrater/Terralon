@@ -224,6 +224,11 @@ hash = "6167d9db9cba836be87f0c909576ae981f5efee25e3eca2effd03eb6d088cffe"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "43384454eec899c2ef7e2c95a2bc5916792b9c885377b5485674bed373b41774"
+metafile = true
+
+[[files]]
 file = "mods/anvil-fix-reborn.pw.toml"
 hash = "2a01be5975b798885b48a10cf4189eb784639c704b8e9c73d0435aa82ca4cfe5"
 metafile = true
@@ -566,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "57737cd406843857b63449172ef723a14487cd408e234af0d854bd4068234ab1"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "f1a522adba2999454c3e7e6a0ae66cabfc38c65e86b730f2b2ab8b540f15e57e"
 metafile = true
 
 [[files]]
