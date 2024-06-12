@@ -25,10 +25,6 @@ file = "config/byg/biomepedia.json5"
 hash = "f8fdbe28d8ceec355b1a8558519dd288be5e30827f65dddd23b40e5f8435214f"
 
 [[files]]
-file = "config/mobcap_modifier.json5"
-hash = "c0264694788a21ec60681d51796db3623333d4b56e2af7ee2c6c7fc985b888ec"
-
-[[files]]
 file = "config/mobfilter.yaml"
 hash = "d4811c24667b1140623f1a02f14cb30766274b0936aaf9f32118eac8138f5207"
 
@@ -183,6 +179,10 @@ hash = "cc88530662284c5d8482e9134c3dba1b1e0de4b6ee3610875e8c5ff4fefe9ebd"
 [[files]]
 file = "kubejs/startup_scripts/startup_main.js"
 hash = "744a7c6f422ecdfda3c415bf6cff817e184c7e2f9a9efdac030498fd75dd374a"
+
+[[files]]
+file = "mods/ExtraOriginsCompatibilityFix-1.0.0_1.16.5-1.20.1.jar"
+hash = "f892f3bc7718eaaed7d9dad45a3afac7bb8b3930d58b5c0d2dc8e896bb2383e3"
 
 [[files]]
 file = "mods/adaptedorigins-1.19-2.3.0-FABRIC.jar"
