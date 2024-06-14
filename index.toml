@@ -414,6 +414,11 @@ hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "7568634b341040d1cf113179e16def7e685ee8d43663699c768401d25c979ad7"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "bb8ae5c9f121ba0e2d617eaeb528aa0a0aaa3b76eaa7ea156d23883c5ba55571"
 metafile = true
