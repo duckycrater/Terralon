@@ -37,8 +37,8 @@ file = "config/mythicmetals.json5"
 hash = "a2d3a7ce714139040446c5b18178eda978c42b128d551f47733893f1483d2562"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.5.3-1.19.2.zip"
-hash = "02b4f839e4783a33eda066a94b41954df599ee87077feaaba92f23f1dea530ec"
+file = "config/paxi/datapacks/AIGO Origins 1.5.6.3-1.19.2.zip"
+hash = "659404796fe935a4dc1d4fa89a2283361b41ab1650dfc1ddbeef38eaa4eef9e0"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
@@ -53,8 +53,8 @@ file = "config/paxi/datapacks/AIGO_Tweaks/pack.mcmeta"
 hash = "bea7f275e4ca18b07bf0e5f21deb337d5ea6ba154a6d8a01c5b8368803c8d7b7"
 
 [[files]]
-file = "config/paxi/datapacks/Bliss 1.4.2-1.19.2.zip"
-hash = "09274790a04a8b26757477e9e6d1c818129a4a6b72a2d4d76f37e87582a3da79"
+file = "config/paxi/datapacks/Bliss 1.4.4-1.19.2.zip"
+hash = "26eec4d393586d417a8f1dc74447d7816fb4122b915b0a604bd83058b4cad9ab"
 
 [[files]]
 file = "config/paxi/datapacks/Cirn_Origin_1.1.2.2.zip"
