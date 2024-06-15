@@ -37,8 +37,8 @@ file = "config/mythicmetals.json5"
 hash = "a2d3a7ce714139040446c5b18178eda978c42b128d551f47733893f1483d2562"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.5.6.3-1.19.2.zip"
-hash = "659404796fe935a4dc1d4fa89a2283361b41ab1650dfc1ddbeef38eaa4eef9e0"
+file = "config/paxi/datapacks/AIGO Origins 1.5.6.4-1.19.2.zip"
+hash = "35538113b6fcd9c0f048c9c5a3c9dfc99770390aa2d74197ae17f5d3b542c68b"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO_Tweaks/data/haema/tags/entity_types/good_blood_sources.json"
