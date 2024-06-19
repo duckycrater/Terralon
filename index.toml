@@ -1063,6 +1063,11 @@ hash = "083e1237dbbc9ff8bd1ea9d4674043d964da40e0e0414830bd9a91a997a0bd28"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "eaf2421881c933c1101bb53d4be72aa4ac70fb5b318ac3a9dff79a0859fd18c7"
+metafile = true
+
+[[files]]
 file = "mods/mobfilter.pw.toml"
 hash = "e9319a8465685d895398adb6f4303aa70322762dd80cd8fdaf6d08b1c7577341"
 metafile = true
