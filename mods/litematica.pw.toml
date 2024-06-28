@@ -11,3 +11,9 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4447928
 project-id = 308892
+
+
+[option]
+optional = true
+description = "Litematica provides schematic support, but it by default uses sticks as a tool, causing inconveniences when holding sticks. Additionally, Create's Schematic and Quill and Schematicannon items can be used to similar effect."
+default = false
