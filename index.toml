@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -321,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "378704b4e71ff0698c980cb7cfe2c5ce990d8504dc0eb171ea6e477148da2202"
+metafile = true
+
+[[files]]
+file = "mods/blahaj_fabric.pw.toml"
+hash = "d0a4e84f7b58d0fe3fd03363c45e6890c29ea0020cf4b021c4fb238af10075d1"
 metafile = true
 
 [[files]]
@@ -1215,6 +1220,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
+file = "mods/plushed.pw.toml"
+hash = "4219c7b8c9e58cbb79aa2da984b04b41b32633bd2f4c52ab11158de93cd5137b"
 metafile = true
 
 [[files]]

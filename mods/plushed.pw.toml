@@ -1,0 +1,13 @@
+name = "Plushed"
+filename = "Plushed-0.1.2 fabric 1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sOniSE2d/versions/yWgPQNCy/Plushed-0.1.2%20fabric%201.19.2.jar"
+hash-format = "sha1"
+hash = "4e57e976a89f2ac3a6b22e85e81f25cac4333597"
+
+[update]
+[update.modrinth]
+mod-id = "sOniSE2d"
+version = "yWgPQNCy"
