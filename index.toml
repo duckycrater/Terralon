@@ -369,6 +369,11 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "ba52fa042c54f98263f28ab67d645ba5262fafecb7a5dfe38140653ab98c2f8d"
 metafile = true
@@ -1144,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "4ab3ca7caeb9d5d533c490ca1269f2bb9dd8f5ae84827188e7a9e602c41c4111"
+hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
 metafile = true
 
 [[files]]
@@ -1210,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/pettable.pw.toml"
 hash = "47127d0fc5909184fb43b344daf67815bfb247aeb4a09034611f9372be1af1d5"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "063e898d69dbe3964f62ff7abc92ab681174a0752a9325eaeebd47fff4a1df76"
 metafile = true
 
 [[files]]
