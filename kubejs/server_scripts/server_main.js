@@ -35,6 +35,7 @@ ServerEvents.recipes(e=>{
         'minecraft:paper'
     ])
 
+    
     e.shapeless('3x kubejs:light_repair_pack', [
         '3x #c:nuggets',
         '2x #c:ingots'
@@ -82,6 +83,14 @@ ServerEvents.recipes(e=>{
         e.custom({type: 'create_new_age:energising', energy_needed: 100000, ingredients: [{item: 'kubejs:incomplete_robot_upgrade_kit', count: 1}], results: [{item: 'kubejs:incomplete_robot_upgrade_kit', count: 1}]}),
         e.recipes.createFilling('kubejs:incomplete_robot_upgrade_kit', ['kubejs:incomplete_robot_upgrade_kit', Fluid.of('techreborn:nitro_diesel', 81000)]),
     ]).transitionalItem('kubejs:incomplete_robot_upgrade_kit').loops(1)
+
+    e.recipes.alchemistry.compactor('chemlib:silicon_dust', [
+	'16x chemlib:silicon'
+    ])
+
+    e.recipes.alchemistry.dissolver('16x chemlib:silicon', [
+	'1x #c:silicon'
+    ])
 })
   
 
