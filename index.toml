@@ -209,6 +209,16 @@ hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
 
 [[files]]
+file = "mods/alchemical-drugs.pw.toml"
+hash = "fef316908d12a1e629b437a3f9cd52c2171036214b6b82a2d896196c6ab5223b"
+metafile = true
+
+[[files]]
+file = "mods/alchemistry-fabric.pw.toml"
+hash = "3d4b3d349529dd0d320c624d603822e4e1798b44dabefc26ac056de03756fbff"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
 metafile = true
@@ -391,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
+metafile = true
+
+[[files]]
+file = "mods/chemlib-fabric.pw.toml"
+hash = "7ed95a56c3748192cb633dce87d4513c37e5697358d51dd9153b60c0a3a43412"
 metafile = true
 
 [[files]]
